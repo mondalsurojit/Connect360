@@ -1,0 +1,1001 @@
+Balance Level,Social Class,Slow Uptrend %,Slow Uptrend RS,Slow Downtrend %,Slow Downtrend RS,Slow Sideways %,Slow Sideways RS,Fast Uptrend %,Fast Uptrend RS,Fast Downtrend %,Fast Downtrend RS,Fast Sideways %,Fast Sideways RS,Profession,Financial Product,Scheme Name,Origin Type
+7,8,92,81,2,59,6,62,35,4,43,86,22,85,PSU,FD,Credit Card Loan,1
+4,8,46,17,0,49,54,29,66,65,26,4,8,92,Journalist,FD,SBI Term Deposit,1
+2,4,4,78,49,83,47,7,84,30,9,11,7,20,Contractor,RD,Two-Wheeler Loan,1
+2,1,39,0,0,10,61,54,58,1,14,64,28,94,Defence,FD,SBI Multi Option Deposit (MODS),1
+8,6,17,98,46,57,37,61,80,84,9,79,11,5,Stock Broker,RD,Pension Loan,1
+3,5,17,26,57,67,26,21,59,23,23,39,18,73,Import/Export,FD,Agriculture Loan,1
+6,8,80,29,5,20,15,61,86,9,13,12,1,75,Retired,Loan,Education Loan,1
+7,8,33,78,60,49,7,3,40,50,4,51,56,38,Stock Broker,FD,Agriculture Loan,1
+1,5,27,80,26,61,47,61,64,37,33,25,3,23,Political/Social Worker,SIP,SBI Equity SIP,1
+6,7,47,34,12,18,41,13,2,47,31,85,67,80,Journalist,RD,Education Loan,1
+5,8,63,65,36,74,1,44,65,86,14,73,21,66,Journalist,Credit,Car Loan,1
+6,5,82,23,7,87,11,16,49,39,34,73,17,65,Contractor,SIP,SBI Hybrid SIP,1
+6,2,34,52,28,36,38,22,6,96,92,7,2,75,Student,FD,SBI Tax Savings FD,1
+5,8,52,5,38,20,10,72,66,73,1,35,33,2,Legal Prof,Loan,SBI Bluechip Fund SIP,1
+6,1,41,32,44,59,15,85,43,92,26,82,31,82,Medical Prof,Credit,SBI Special FD (400 Days),1
+5,3,20,29,1,26,79,70,46,19,43,49,11,94,Stock Broker,SIP,SBI Magnum SIP,1
+5,1,13,89,19,89,68,81,12,95,2,77,86,46,Defence,RD,SBI Recurring Deposit,1
+1,2,34,46,13,49,53,77,66,84,12,25,22,2,Political/Social Worker,FD,SBI Annuity Deposit,1
+8,4,50,6,42,51,8,10,0,26,32,13,68,85,Defence,SIP,SBI Multi Option Deposit (MODS),1
+6,2,60,16,17,57,23,12,85,49,8,5,7,84,Political/Social Worker,RD,Education Loan,1
+7,4,43,4,13,71,44,68,28,87,49,56,23,25,Jeweller,SIP,Education Loan,1
+4,3,62,17,36,79,2,86,5,42,18,72,77,2,PSU,SIP,Two-Wheeler Loan,1
+4,7,79,76,9,70,12,75,63,36,13,3,24,1,Student,RD,SBI Focused Equity SIP,1
+4,3,75,16,18,15,7,8,73,52,0,72,27,58,Defence,Loan,Two-Wheeler Loan,1
+7,1,65,54,10,95,25,5,10,52,7,19,83,38,Legal Prof,RD,Agriculture Loan,1
+2,1,33,30,56,81,11,39,18,13,70,99,12,80,Jeweller,Credit,Two-Wheeler Loan,1
+1,2,91,26,1,71,8,31,19,0,35,16,46,8,Housewife,SIP,Tractor Loan,1
+8,2,8,59,29,0,63,4,83,62,5,98,12,35,Import/Export,SIP,SBI Equity SIP,1
+6,1,3,24,77,73,20,98,88,6,3,12,9,67,Political/Social Worker,FD,Overdraft Facility,1
+1,4,13,36,81,86,6,70,71,75,26,24,3,66,Political/Social Worker,FD,Education Loan,1
+2,4,95,15,4,18,1,28,73,50,20,17,7,57,Legal Prof,SIP,SBI Small Cap SIP,1
+8,1,1,27,55,64,44,4,78,21,6,99,16,12,CA/Finance,Loan,SBI Annuity Deposit,1
+7,1,63,78,31,57,6,45,79,51,18,62,3,75,Stock Broker,SIP,Personal Loan,1
+5,1,54,85,27,25,19,11,70,70,8,45,22,46,Migrant Labour,Credit,SBI Term Deposit,1
+2,8,69,89,4,36,27,13,32,36,5,7,63,76,Import/Export,Credit,Agriculture Loan,1
+3,4,56,85,18,65,26,76,37,86,31,24,32,91,Retired,FD,Overdraft Facility,1
+1,8,29,47,33,39,38,50,85,79,4,12,11,89,Central Govt,SIP,Business Loan,1
+7,8,47,26,11,27,42,81,77,79,17,51,6,15,Agriculture,Credit,SBI Focused Equity SIP,1
+5,1,76,77,3,50,21,75,8,56,46,31,46,66,Migrant Labour,FD,SBI Small Cap SIP,1
+6,4,61,79,19,37,20,71,95,82,0,29,5,57,CA/Finance,FD,SBI Term Deposit,1
+6,4,14,96,47,56,39,57,31,90,39,98,30,15,Engineer/Architect,SIP,Home Loan,1
+7,1,47,32,30,81,23,22,35,59,32,86,33,78,Migrant Labour,FD,SBI EMI Card,1
+1,5,38,80,47,11,15,92,44,31,13,55,43,23,CA/Finance,SIP,Tractor Loan,1
+8,4,55,27,3,49,42,1,53,93,33,25,14,50,Legal Prof,FD,SBI Special FD (200 Days),1
+2,4,83,36,10,40,7,51,73,82,22,81,5,48,Political/Social Worker,RD,Loan Against Property,1
+2,2,37,60,27,45,36,68,27,74,65,73,8,42,Political/Social Worker,RD,Home Loan,1
+7,7,36,33,6,85,58,30,19,86,34,18,47,67,Migrant Labour,FD,SBI Multi Option Deposit (MODS),1
+7,4,38,34,16,31,46,46,18,46,47,63,35,45,Stock Broker,Loan,Car Loan,1
+6,1,28,13,69,23,3,56,16,49,80,56,4,60,Contractor,SIP,SBI WeCare FD (Senior Citizens),1
+5,8,26,80,30,82,44,43,72,67,5,47,23,56,Medical Prof,RD,SBI Debt SIP,1
+4,1,45,10,33,55,22,37,10,20,30,93,60,9,Service Sector,FD,SBI Magnum SIP,1
+8,7,59,12,7,86,34,75,33,90,15,21,52,95,Service Sector,Loan,SBI Overdraft,1
+1,3,96,68,1,96,3,83,91,29,2,7,7,37,Central Govt,Credit,SBI Multi Option Deposit (MODS),1
+4,1,45,58,25,45,30,71,94,34,2,38,4,91,PSU,RD,Education Loan,1
+1,8,83,19,4,23,13,35,54,33,36,53,10,33,Import/Export,RD,SBI Multi Option Deposit (MODS),1
+5,1,54,83,7,12,39,19,90,65,5,98,5,46,Retired,RD,Tractor Loan,1
+5,2,5,54,13,99,82,33,3,26,85,6,12,2,Stock Broker,Credit,SBI EMI Card,1
+1,2,79,94,14,13,7,53,23,77,14,5,63,77,Contractor,Loan,SBI WeCare FD (Senior Citizens),1
+4,3,79,31,7,72,14,26,38,51,51,96,11,62,Engineer/Architect,FD,SBI Recurring Deposit,1
+1,1,99,22,0,97,1,71,80,12,17,22,3,56,Engineer/Architect,SIP,SBI Debt SIP,1
+7,4,34,80,33,44,33,18,32,93,45,86,23,14,Agriculture,RD,SBI Small Cap SIP,1
+6,2,17,20,69,39,14,91,58,26,31,1,11,96,Trade Sector,RD,SBI Recurring Deposit,1
+7,5,65,27,13,63,22,70,55,81,37,63,8,55,Political/Social Worker,Loan,SBI Hybrid SIP,1
+4,1,3,55,56,30,41,87,29,6,45,89,26,76,Defence,Credit,Two-Wheeler Loan,1
+5,5,77,51,17,67,6,20,26,17,24,38,50,14,Housewife,Credit,Loan Against Property,1
+8,4,71,15,27,34,2,16,84,72,15,98,1,51,Political/Social Worker,Credit,Business Loan,1
+2,4,47,78,21,0,32,65,48,63,51,7,1,85,Journalist,Loan,Home Loan,1
+8,3,72,78,12,50,16,52,69,14,29,49,2,70,Migrant Labour,FD,Overdraft Facility,1
+8,6,65,38,9,67,26,34,16,50,6,46,78,35,Service Sector,Loan,Pension Loan,1
+5,2,64,84,35,42,1,52,7,84,47,26,46,18,Student,RD,SBI WeCare FD (Senior Citizens),1
+3,3,50,40,41,71,9,10,68,79,19,87,13,84,PSU,SIP,SBI Hybrid SIP,1
+1,6,71,76,6,61,23,86,65,28,29,37,6,83,Legal Prof,Loan,SBI Overdraft,1
+2,7,2,85,92,28,6,1,44,49,7,64,49,19,Agriculture,SIP,SBI Equity SIP,1
+5,8,98,17,1,64,1,24,59,26,18,6,23,43,Legal Prof,FD,SBI Overdraft,1
+7,4,35,30,18,8,47,83,5,73,24,36,71,26,Jeweller,Credit,Pension Loan,1
+8,2,84,97,0,59,16,8,23,1,43,55,34,29,Retired,RD,SBI Hybrid SIP,1
+3,1,12,64,70,10,18,69,15,19,44,98,41,62,Defence,Credit,Pension Loan,1
+2,2,61,68,29,57,10,4,91,26,2,27,7,25,Pawn Shop,RD,SBI Special FD (200 Days),1
+1,2,0,54,91,80,9,25,57,83,14,24,29,76,Student,Loan,SBI Small Cap SIP,1
+8,5,22,86,29,10,49,30,77,5,21,10,2,76,Industrialist,SIP,SBI Debt SIP,1
+2,5,35,6,16,14,49,95,27,10,21,23,52,66,PSU,FD,Home Loan,1
+5,6,81,12,18,89,1,11,43,81,30,8,27,84,Migrant Labour,Loan,SBI Equity SIP,1
+8,8,23,76,71,53,6,52,32,48,22,77,46,77,Jeweller,Loan,Loan Against Property,1
+2,4,89,78,9,20,2,17,64,93,31,59,5,12,Trade Sector,FD,SBI Special FD (400 Days),1
+7,4,24,75,49,83,27,86,13,29,5,29,82,37,Legal Prof,FD,SBI EMI Card,1
+1,6,63,89,33,71,4,13,15,30,77,65,8,67,Defence,Loan,SBI Hybrid SIP,1
+4,3,39,68,24,25,37,39,24,37,2,37,74,67,Medical Prof,RD,Business Loan,1
+3,8,32,27,37,77,31,99,9,37,56,15,35,20,State Govt,SIP,SBI Recurring Deposit,1
+1,6,14,98,2,13,84,65,42,28,46,3,12,25,Migrant Labour,SIP,SBI Hybrid SIP,1
+4,2,34,42,9,20,57,14,85,34,8,84,7,84,Engineer/Architect,FD,SBI WeCare FD (Senior Citizens),1
+4,4,4,71,72,97,24,73,17,50,20,40,63,23,Agriculture,Loan,Loan Against Property,1
+4,1,58,22,33,85,9,42,74,81,17,39,9,46,Political/Social Worker,Loan,SBI Tax Savings FD,1
+7,4,64,44,3,1,33,27,23,25,35,22,42,78,Import/Export,SIP,SBI Magnum SIP,1
+6,3,37,73,34,93,29,52,99,37,0,92,1,58,Trade Sector,RD,Business Loan,1
+2,4,67,28,15,33,18,85,24,13,10,23,66,58,Private Sector,FD,Overdraft Facility,1
+4,7,58,7,31,93,11,26,5,70,55,26,40,88,CA/Finance,Loan,SBI Tax Savings FD,1
+1,6,11,38,86,88,3,9,50,93,44,73,6,97,Retired,Credit,SBI Debt SIP,1
+5,6,8,13,62,72,30,71,76,38,4,39,20,53,Migrant Labour,RD,SBI Hybrid SIP,1
+8,7,32,46,18,45,50,55,33,56,49,82,18,50,Service Sector,RD,SBI Focused Equity SIP,1
+1,6,26,6,47,28,27,42,18,68,50,93,32,57,Journalist,FD,Two-Wheeler Loan,1
+2,5,41,2,50,90,9,78,83,97,15,44,2,21,Retired,RD,SBI EMI Card,1
+1,4,53,72,40,87,7,84,22,54,59,79,19,62,Journalist,Loan,SBI Focused Equity SIP,1
+1,7,72,64,14,68,14,55,38,8,32,69,30,27,Import/Export,Credit,SBI Focused Equity SIP,1
+4,8,5,74,26,84,69,63,37,29,3,81,60,98,Legal Prof,SIP,SBI Hybrid SIP,1
+6,4,29,37,37,14,34,17,84,51,11,28,5,59,Student,Credit,SBI Multi Option Deposit (MODS),1
+1,3,56,11,36,74,8,83,59,72,37,0,4,57,Retired,RD,SBI Recurring Deposit,1
+7,5,8,18,82,61,10,86,54,90,45,90,1,38,Agriculture,SIP,Two-Wheeler Loan,1
+7,3,33,19,32,39,35,98,91,94,1,57,8,30,Medical Prof,Credit,Pension Loan,1
+1,4,62,15,14,31,24,65,76,89,21,13,3,37,Migrant Labour,FD,Agriculture Loan,1
+4,5,45,83,42,30,13,32,91,43,5,70,4,7,Political/Social Worker,Loan,Home Loan,1
+1,4,36,37,41,98,23,93,43,5,16,67,41,50,Import/Export,Credit,Car Loan,1
+2,1,5,91,12,29,83,99,58,1,21,57,21,35,Migrant Labour,SIP,SBI Small Cap SIP,1
+2,2,64,31,12,97,24,42,49,94,14,77,37,53,Migrant Labour,Credit,SBI Tax Savings FD,1
+7,3,36,56,42,87,22,27,91,35,3,63,6,17,Migrant Labour,Loan,Car Loan,1
+4,6,89,14,7,6,4,16,87,85,3,85,10,63,Trade Sector,SIP,SBI WeCare FD (Senior Citizens),1
+8,6,78,1,4,91,18,53,15,26,68,30,17,40,Legal Prof,SIP,SBI Tax Savings FD,1
+3,1,92,15,0,27,8,85,71,81,24,21,5,40,Retired,SIP,SBI Special FD (400 Days),1
+1,2,33,6,38,51,29,59,73,51,14,78,13,23,Private Sector,FD,SBI Overdraft,1
+2,6,16,26,77,72,7,70,1,47,76,73,23,8,Contractor,Loan,SBI Magnum SIP,1
+8,5,83,6,6,91,11,82,42,62,39,83,19,43,Engineer/Architect,Loan,Pension Loan,1
+3,5,85,85,0,97,15,61,80,7,15,44,5,17,Trade Sector,SIP,SBI Debt SIP,1
+4,2,65,55,26,11,9,95,13,91,47,54,40,27,Central Govt,Loan,Education Loan,1
+2,4,2,61,0,47,98,61,16,68,70,18,14,33,Retired,Credit,SBI EMI Card,1
+1,8,46,49,38,88,16,25,90,55,8,77,2,13,Service Sector,Loan,Education Loan,1
+4,7,31,73,64,9,5,87,60,33,19,60,21,91,Legal Prof,RD,Agriculture Loan,1
+1,7,67,4,6,97,27,22,8,42,15,88,77,56,State Govt,RD,Tractor Loan,1
+8,8,51,61,16,90,33,83,36,96,12,95,52,7,Jeweller,Credit,Agriculture Loan,1
+3,6,59,85,38,41,3,73,40,73,20,28,40,79,Pawn Shop,Loan,SBI Multi Option Deposit (MODS),1
+6,2,18,45,52,84,30,52,84,63,0,44,16,48,Student,RD,SBI Credit Card,1
+7,1,36,1,56,58,8,95,69,4,25,36,6,30,State Govt,SIP,Car Loan,1
+6,8,14,19,14,76,72,43,60,41,15,45,25,94,Industrialist,SIP,SBI Debt SIP,1
+8,5,8,85,74,41,18,45,74,72,24,83,2,58,PSU,Credit,Credit Card Loan,1
+6,5,60,0,4,64,36,61,39,53,10,59,51,45,Migrant Labour,Credit,SBI Multi Option Deposit (MODS),1
+6,2,69,38,15,97,16,30,10,11,9,79,81,37,Student,RD,Home Loan,1
+4,5,24,36,34,85,42,54,34,74,21,95,45,98,Jeweller,Credit,SBI Equity SIP,1
+8,8,97,19,1,8,2,79,50,25,3,24,47,67,Housewife,Loan,SBI Magnum SIP,1
+5,1,18,2,13,36,69,45,20,15,14,13,66,8,Industrialist,RD,SBI Recurring Deposit,1
+7,6,84,33,14,0,2,95,51,68,7,93,42,85,Industrialist,SIP,SBI Annuity Deposit,1
+7,7,1,49,46,60,53,40,13,13,30,4,57,74,Retired,Loan,Agriculture Loan,1
+5,8,4,63,95,21,1,33,35,55,18,16,47,75,Jeweller,Loan,SBI Bluechip Fund SIP,1
+1,2,17,57,44,17,39,79,95,80,1,6,4,75,Retired,FD,Credit Card Loan,1
+5,5,82,69,12,13,6,3,43,17,34,92,23,98,PSU,SIP,Loan Against Property,1
+8,4,98,67,1,96,1,65,50,12,18,61,32,60,Political/Social Worker,Credit,SBI EMI Card,1
+2,6,87,70,11,56,2,18,32,87,18,78,50,40,Journalist,FD,SBI Hybrid SIP,1
+4,4,3,86,4,60,93,74,40,54,43,74,17,12,Defence,SIP,SBI Focused Equity SIP,1
+4,8,43,70,43,49,14,43,81,13,9,14,10,15,Retired,FD,SBI EMI Card,1
+6,2,76,34,19,22,5,96,48,98,49,99,3,60,Pawn Shop,SIP,SBI Hybrid SIP,1
+3,8,58,1,31,84,11,5,92,91,6,35,2,31,Service Sector,Credit,Credit Card Loan,1
+5,6,74,1,22,66,4,10,74,49,16,34,10,14,Migrant Labour,RD,Overdraft Facility,1
+7,4,91,91,8,0,1,58,74,68,18,73,8,41,Housewife,FD,Education Loan,1
+2,2,4,61,19,93,77,95,65,31,10,57,25,49,Import/Export,SIP,SBI Focused Equity SIP,1
+6,7,85,82,6,80,9,87,80,35,10,95,10,51,Contractor,SIP,SBI Credit Card,1
+6,2,69,63,29,75,2,60,8,93,20,94,72,39,Defence,SIP,SBI Recurring Deposit,1
+3,2,69,8,4,14,27,99,90,6,7,95,3,71,Private Sector,RD,SBI Tax Savings FD,1
+5,3,5,80,82,18,13,62,56,30,27,74,17,78,Trade Sector,FD,Overdraft Facility,1
+7,3,17,92,24,85,59,49,19,78,57,9,24,20,PSU,Credit,SBI EMI Card,1
+6,4,12,86,46,94,42,3,22,66,49,84,29,52,Contractor,FD,Education Loan,1
+1,7,69,62,6,64,25,38,18,82,43,25,39,43,State Govt,SIP,SBI Debt SIP,1
+5,4,85,90,13,37,2,58,43,41,19,51,38,62,Medical Prof,Credit,SBI Bluechip Fund SIP,1
+1,2,40,78,56,31,4,7,36,96,0,17,64,44,Trade Sector,Credit,SBI Flexi RD Scheme,1
+1,5,73,39,3,4,24,33,96,23,2,16,2,94,Retired,Loan,SBI Credit Card,1
+6,5,14,20,14,65,72,90,24,31,52,20,24,67,Stock Broker,Credit,SBI EMI Card,1
+2,2,13,35,14,82,73,8,19,70,33,29,48,76,Central Govt,Credit,SBI EMI Card,1
+7,4,12,86,78,35,10,2,45,97,8,18,47,27,PSU,Loan,Tractor Loan,1
+7,1,13,14,45,50,42,87,14,7,66,68,20,61,Pawn Shop,RD,SBI Recurring Deposit,1
+4,6,83,5,5,98,12,78,56,28,30,66,14,74,CA/Finance,RD,SBI Credit Card,1
+2,2,47,99,15,66,38,68,9,11,32,56,59,43,State Govt,Credit,SBI Bluechip Fund SIP,1
+4,1,95,20,4,75,1,50,99,20,0,59,1,50,CA/Finance,Credit,Overdraft Facility,1
+6,5,72,5,0,64,28,85,75,33,13,55,12,74,Industrialist,RD,Credit Card Loan,1
+6,6,62,89,19,94,19,89,20,55,1,95,79,9,Industrialist,FD,Loan Against Property,1
+7,4,29,48,36,33,35,43,54,21,31,30,15,6,Engineer/Architect,Loan,SBI Equity SIP,1
+8,4,43,95,46,78,11,68,18,10,47,78,35,28,Jeweller,FD,Tractor Loan,1
+4,1,47,66,22,95,31,73,14,39,43,85,43,13,Defence,Loan,SBI Equity SIP,1
+3,8,57,54,14,75,29,9,64,41,23,94,13,10,Legal Prof,Credit,Pension Loan,1
+7,6,30,23,52,7,18,82,89,47,7,29,4,57,Journalist,Loan,SBI Focused Equity SIP,1
+2,6,47,0,3,91,50,69,36,46,7,99,57,74,Pawn Shop,Credit,SBI WeCare FD (Senior Citizens),1
+8,7,83,0,12,85,5,81,4,45,29,68,67,30,Retired,RD,SBI Bluechip Fund SIP,1
+1,5,53,52,11,63,36,22,19,26,33,16,48,47,CA/Finance,Credit,SBI WeCare FD (Senior Citizens),1
+8,6,16,86,60,5,24,27,49,71,25,54,26,57,PSU,Credit,Agriculture Loan,1
+3,6,31,64,9,28,60,58,90,44,0,66,10,50,Agriculture,FD,SBI Special FD (200 Days),1
+5,7,85,66,1,61,14,4,98,8,1,27,1,82,Jeweller,SIP,SBI Magnum SIP,1
+5,5,42,45,52,69,6,37,20,48,61,74,19,80,Industrialist,Credit,Personal Loan,1
+1,8,68,58,29,54,3,29,7,78,18,35,75,54,Service Sector,SIP,SBI Magnum SIP,1
+5,6,53,12,29,15,18,43,38,70,46,26,16,44,Private Sector,Credit,SBI Hybrid SIP,1
+3,7,6,19,61,95,33,37,50,60,45,31,5,25,PSU,FD,Business Loan,1
+4,2,78,21,19,52,3,84,85,65,2,42,13,81,Retired,Credit,SBI Flexi RD Scheme,1
+7,1,6,1,40,3,54,77,53,31,0,99,47,1,Migrant Labour,Loan,Agriculture Loan,1
+2,3,19,62,48,45,33,20,7,86,91,31,2,7,Medical Prof,Credit,SBI Annuity Deposit,1
+8,2,17,62,34,52,49,90,51,80,14,65,35,30,Service Sector,Credit,SBI Flexi RD Scheme,1
+5,1,97,16,1,77,2,77,54,45,2,37,44,34,Migrant Labour,Loan,SBI EMI Card,1
+8,5,60,49,32,89,8,7,16,33,27,58,57,17,Defence,RD,SBI Magnum SIP,1
+8,2,75,74,21,83,4,50,15,0,11,26,74,66,Contractor,SIP,SBI EMI Card,1
+1,5,36,3,0,63,64,78,41,50,48,90,11,71,Stock Broker,FD,SBI Multi Option Deposit (MODS),1
+4,7,90,81,6,3,4,21,71,2,25,78,4,98,Legal Prof,Loan,SBI Term Deposit,1
+8,1,25,37,7,9,68,41,49,36,15,25,36,91,Student,SIP,SBI Bluechip Fund SIP,1
+4,1,45,81,34,43,21,65,28,1,11,58,61,16,Medical Prof,FD,SBI WeCare FD (Senior Citizens),1
+6,3,0,88,87,99,13,30,60,30,35,65,5,18,Student,Credit,Two-Wheeler Loan,1
+2,7,21,2,22,86,57,19,86,39,9,38,5,71,Import/Export,SIP,SBI Debt SIP,1
+1,6,14,72,36,6,50,40,57,83,4,9,39,61,Defence,FD,Education Loan,1
+6,8,40,26,0,6,60,72,16,98,23,11,61,84,Medical Prof,FD,SBI Annuity Deposit,1
+7,5,32,1,45,28,23,39,58,96,5,60,37,67,Contractor,RD,Education Loan,1
+5,5,40,88,22,64,38,63,81,78,16,62,3,97,Housewife,SIP,SBI Debt SIP,1
+5,8,4,80,33,61,63,87,38,23,2,2,60,70,Stock Broker,Loan,Pension Loan,1
+8,3,92,86,1,38,7,8,28,13,31,67,41,63,Legal Prof,SIP,SBI Credit Card,1
+6,4,76,63,0,88,24,31,38,8,27,27,35,94,Central Govt,Loan,SBI Equity SIP,1
+7,5,9,74,79,66,12,91,5,40,47,78,48,59,Agriculture,Credit,Credit Card Loan,1
+4,8,80,80,6,14,14,35,27,91,12,14,61,74,Import/Export,SIP,Car Loan,1
+2,4,93,42,4,9,3,75,83,29,15,50,2,32,Contractor,FD,SBI Term Deposit,1
+6,8,0,53,14,85,86,31,35,57,46,45,19,53,Student,SIP,SBI Equity SIP,1
+2,1,22,65,42,37,36,28,54,66,1,70,45,35,Trade Sector,Credit,SBI Hybrid SIP,1
+5,1,86,33,12,49,2,64,15,81,30,61,55,42,Defence,Loan,SBI Multi Option Deposit (MODS),1
+4,2,69,95,7,50,24,3,44,38,33,83,23,23,Housewife,FD,SBI Small Cap SIP,1
+4,7,57,24,11,79,32,4,0,82,49,67,51,5,Contractor,FD,SBI Multi Option Deposit (MODS),1
+7,8,38,13,8,54,54,8,44,14,51,36,5,49,Agriculture,FD,SBI Special FD (200 Days),1
+5,4,95,18,4,92,1,57,56,94,40,5,4,3,Service Sector,RD,SBI Overdraft,1
+2,3,54,45,14,57,32,94,46,70,20,80,34,82,State Govt,SIP,Car Loan,1
+6,3,61,57,13,29,26,89,34,6,27,38,39,94,Retired,Credit,Car Loan,1
+2,7,13,39,62,28,25,52,35,21,23,71,42,14,Housewife,Loan,Gold Loan,1
+4,8,74,29,17,14,9,69,41,54,48,52,11,15,Defence,Loan,Overdraft Facility,1
+3,2,99,68,0,85,1,30,26,2,72,29,2,20,Import/Export,RD,Loan Against Property,1
+4,8,61,63,24,29,15,62,31,95,38,30,31,86,Contractor,Loan,SBI Recurring Deposit,1
+1,4,94,76,1,9,5,86,38,81,45,31,17,96,Political/Social Worker,SIP,SBI Credit Card,1
+8,8,7,0,79,61,14,75,74,37,5,91,21,44,Retired,FD,SBI Multi Option Deposit (MODS),1
+1,8,39,73,55,73,6,35,62,88,23,56,15,73,Service Sector,RD,SBI Term Deposit,1
+5,7,1,94,92,80,7,9,67,26,28,14,5,59,CA/Finance,SIP,SBI Recurring Deposit,1
+5,4,45,35,44,51,11,80,25,50,50,2,25,13,Migrant Labour,Loan,Tractor Loan,1
+1,3,56,13,16,58,28,80,49,2,33,97,18,39,State Govt,Loan,SBI Overdraft,1
+2,2,93,43,3,24,4,8,20,61,24,25,56,56,Migrant Labour,Credit,SBI Annuity Deposit,1
+5,4,25,28,19,30,56,18,8,19,86,86,6,26,Political/Social Worker,Credit,SBI Overdraft,1
+5,4,70,14,21,93,9,97,73,12,22,3,5,81,PSU,Loan,Home Loan,1
+2,4,16,74,27,56,57,76,13,96,33,54,54,65,PSU,Credit,SBI Overdraft,1
+5,5,67,91,11,66,22,83,25,73,60,51,15,17,Private Sector,Credit,SBI Recurring Deposit,1
+5,5,0,83,5,62,95,52,10,84,33,84,57,17,Contractor,Credit,SBI Credit Card,1
+3,4,81,59,12,82,7,48,62,64,26,37,12,82,Import/Export,SIP,Personal Loan,1
+8,1,85,47,14,31,1,48,49,67,38,44,13,31,Student,SIP,SBI Equity SIP,1
+1,1,72,53,0,46,28,5,79,65,17,8,4,67,Trade Sector,Credit,SBI Hybrid SIP,1
+6,3,42,24,50,79,8,34,71,16,6,17,23,26,Import/Export,SIP,SBI Multi Option Deposit (MODS),1
+3,5,14,82,41,7,45,9,33,4,47,47,20,25,CA/Finance,SIP,SBI Hybrid SIP,1
+6,5,19,19,56,59,25,47,23,63,32,29,45,72,Migrant Labour,Credit,SBI Multi Option Deposit (MODS),1
+1,4,18,96,70,43,12,31,58,10,2,1,40,89,Medical Prof,Credit,Education Loan,1
+1,1,86,3,13,37,1,62,87,28,12,18,1,90,Service Sector,Credit,SBI Bluechip Fund SIP,1
+4,3,69,43,26,47,5,51,22,7,45,54,33,65,Housewife,Credit,Agriculture Loan,1
+1,5,47,90,35,35,18,86,60,54,37,84,3,12,Housewife,Credit,SBI Tax Savings FD,1
+2,8,21,29,38,17,41,17,86,73,9,38,5,93,Trade Sector,FD,Business Loan,1
+7,5,45,7,17,73,38,31,12,16,24,78,64,78,State Govt,Loan,SBI Annuity Deposit,1
+7,8,83,93,14,62,3,7,98,94,1,31,1,44,Journalist,FD,SBI Special FD (200 Days),1
+7,2,23,69,39,61,38,88,13,60,74,0,13,88,Import/Export,FD,SBI EMI Card,1
+8,5,31,87,55,22,14,28,23,97,3,20,74,29,State Govt,FD,SBI Special FD (200 Days),1
+8,3,57,22,39,58,4,0,43,96,24,14,33,80,Engineer/Architect,FD,SBI Multi Option Deposit (MODS),1
+4,2,43,6,3,45,54,8,76,86,3,32,21,32,Migrant Labour,FD,SBI Multi Option Deposit (MODS),1
+4,1,33,8,63,16,4,20,24,59,54,12,22,2,Stock Broker,SIP,Education Loan,1
+3,4,25,12,74,43,1,38,23,18,9,50,68,18,Trade Sector,SIP,SBI Special FD (200 Days),1
+6,7,29,74,45,47,26,61,75,57,20,17,5,58,Private Sector,RD,Gold Loan,1
+8,7,86,86,1,52,13,24,60,61,37,3,3,93,Pawn Shop,Credit,Credit Card Loan,1
+7,1,55,17,7,34,38,88,54,80,23,31,23,23,Medical Prof,Credit,SBI EMI Card,1
+3,8,99,30,0,73,1,25,89,85,9,75,2,31,Private Sector,RD,Personal Loan,1
+5,5,19,13,39,43,42,85,58,81,12,47,30,92,Housewife,RD,SBI Annuity Deposit,1
+6,3,33,9,2,51,65,28,67,95,4,30,29,65,Student,FD,SBI Multi Option Deposit (MODS),1
+3,5,26,87,32,43,42,94,67,87,20,48,13,52,Private Sector,FD,SBI Multi Option Deposit (MODS),1
+1,2,94,10,0,16,6,65,3,69,50,72,47,68,Central Govt,SIP,SBI Overdraft,1
+5,1,71,84,19,60,10,27,26,86,7,69,67,2,Agriculture,Credit,Pension Loan,1
+7,4,4,97,10,12,86,6,14,5,63,55,23,63,Defence,Credit,SBI EMI Card,1
+2,6,24,66,27,4,49,64,83,14,6,89,11,66,Stock Broker,Loan,Pension Loan,1
+7,2,68,0,30,21,2,61,76,78,10,25,14,17,Central Govt,Loan,Personal Loan,1
+3,1,44,39,1,62,55,81,13,15,37,92,50,74,Agriculture,FD,SBI Special FD (400 Days),1
+3,6,95,30,2,32,3,87,85,0,2,43,13,14,Central Govt,Credit,SBI Magnum SIP,1
+6,8,11,6,66,33,23,31,29,38,65,95,6,42,Pawn Shop,RD,SBI Term Deposit,1
+3,6,99,2,0,73,1,62,80,39,15,17,5,66,Jeweller,FD,SBI Special FD (200 Days),1
+1,6,45,99,10,25,45,26,59,37,32,21,9,25,Agriculture,Credit,Car Loan,1
+2,3,50,11,48,2,2,81,17,6,42,96,41,5,Migrant Labour,FD,Tractor Loan,1
+7,6,38,11,50,87,12,61,8,72,22,76,70,39,Journalist,FD,SBI Multi Option Deposit (MODS),1
+7,1,49,91,23,82,28,32,1,20,98,73,1,52,Agriculture,Credit,Pension Loan,1
+6,6,34,24,52,10,14,73,18,16,68,35,14,89,Journalist,Credit,SBI WeCare FD (Senior Citizens),1
+4,2,13,59,7,33,80,35,65,61,14,0,21,84,State Govt,SIP,SBI Debt SIP,1
+1,8,53,38,46,29,1,6,99,21,0,49,1,44,Housewife,FD,SBI Bluechip Fund SIP,1
+8,3,13,20,45,61,42,96,74,18,5,87,21,81,Contractor,RD,SBI Special FD (200 Days),1
+6,3,82,56,1,9,17,65,21,7,67,96,12,37,Private Sector,RD,SBI Magnum SIP,1
+6,4,44,8,0,4,56,9,97,11,2,81,1,57,Contractor,FD,SBI WeCare FD (Senior Citizens),1
+5,1,68,16,24,72,8,31,63,69,7,20,30,6,PSU,RD,Agriculture Loan,1
+1,4,65,85,6,9,29,32,46,6,17,2,37,13,Legal Prof,SIP,SBI Term Deposit,1
+5,4,15,37,79,49,6,37,4,55,88,62,8,47,Import/Export,Loan,SBI Focused Equity SIP,1
+3,5,89,7,6,3,5,84,54,85,0,52,46,57,Pawn Shop,Credit,SBI Multi Option Deposit (MODS),1
+3,3,28,22,32,4,40,70,51,56,40,5,9,48,State Govt,Loan,Tractor Loan,1
+4,4,63,44,36,89,1,7,30,39,36,96,34,92,Service Sector,Credit,SBI Credit Card,1
+5,8,86,62,12,95,2,50,8,30,1,6,91,29,Engineer/Architect,FD,Car Loan,1
+3,3,72,0,9,93,19,56,60,37,25,61,15,78,Political/Social Worker,Loan,Loan Against Property,1
+2,1,66,39,16,80,18,88,7,61,59,40,34,11,Political/Social Worker,Credit,SBI Small Cap SIP,1
+3,4,53,59,24,67,23,77,92,45,2,37,6,60,Student,Loan,Home Loan,1
+8,4,6,24,15,3,79,28,13,55,79,5,8,0,Contractor,Credit,SBI EMI Card,1
+7,1,62,20,2,29,36,95,64,32,0,47,36,21,Journalist,SIP,SBI Hybrid SIP,1
+7,4,80,51,14,92,6,75,73,64,2,64,25,9,Pawn Shop,FD,SBI Tax Savings FD,1
+2,1,21,20,25,94,54,62,89,5,8,13,3,32,Service Sector,SIP,SBI Magnum SIP,1
+8,1,86,34,2,35,12,91,1,38,14,3,85,63,Jeweller,FD,Loan Against Property,1
+1,6,98,95,0,66,2,89,73,14,25,16,2,90,Stock Broker,FD,SBI Special FD (400 Days),1
+3,4,68,43,23,97,9,26,90,83,5,63,5,40,Political/Social Worker,SIP,Gold Loan,1
+5,2,21,29,6,15,73,78,21,4,45,66,34,22,Service Sector,Credit,SBI Credit Card,1
+2,5,78,94,17,20,5,1,24,21,7,71,69,86,Agriculture,SIP,SBI Flexi RD Scheme,1
+6,3,81,81,0,53,19,43,51,96,46,6,3,91,Agriculture,Loan,SBI Recurring Deposit,1
+8,7,38,68,18,86,44,82,30,64,23,32,47,58,Central Govt,FD,SBI Bluechip Fund SIP,1
+1,8,40,10,11,96,49,18,72,53,17,56,11,41,Private Sector,FD,Business Loan,1
+7,4,82,7,5,89,13,93,31,74,9,19,60,19,Central Govt,Loan,Agriculture Loan,1
+4,7,87,20,0,4,13,34,62,84,26,67,12,47,Central Govt,Loan,SBI Recurring Deposit,1
+2,6,34,38,20,33,46,14,79,5,14,65,7,87,Housewife,Loan,SBI Credit Card,1
+1,1,19,89,47,50,34,42,71,48,0,24,29,73,Defence,SIP,Pension Loan,1
+7,8,80,47,4,60,16,80,13,34,33,64,54,58,Pawn Shop,FD,SBI WeCare FD (Senior Citizens),1
+4,7,41,68,4,51,55,11,18,82,38,46,44,75,Journalist,FD,SBI Multi Option Deposit (MODS),1
+6,7,81,42,16,33,3,96,50,48,47,17,3,60,Pawn Shop,Loan,SBI Overdraft,1
+5,5,92,32,7,9,1,36,58,96,37,86,5,10,Political/Social Worker,FD,SBI Equity SIP,1
+4,5,88,43,3,61,9,5,46,65,14,75,40,3,Contractor,Credit,SBI Multi Option Deposit (MODS),1
+7,8,89,49,0,19,11,65,11,35,55,78,34,37,Migrant Labour,SIP,SBI Overdraft,1
+2,8,35,92,14,90,51,4,61,55,2,30,37,85,Housewife,FD,SBI Annuity Deposit,1
+6,7,25,35,0,75,75,83,82,86,6,24,12,93,Industrialist,SIP,SBI Hybrid SIP,1
+5,5,40,40,18,14,42,53,3,63,64,71,33,14,Retired,FD,Business Loan,1
+6,2,1,66,35,29,64,54,19,65,15,98,66,25,CA/Finance,Loan,Pension Loan,1
+5,5,55,97,19,55,26,54,61,19,33,49,6,24,Central Govt,SIP,SBI Small Cap SIP,1
+5,6,42,75,42,68,16,62,61,1,38,53,1,15,Legal Prof,RD,SBI Overdraft,1
+6,5,41,52,23,62,36,10,29,77,36,22,35,79,Journalist,FD,SBI Equity SIP,1
+7,7,96,82,1,4,3,99,60,94,13,17,27,43,Defence,Credit,SBI Tax Savings FD,1
+6,7,67,73,4,90,29,79,40,29,44,76,16,99,Migrant Labour,Credit,Tractor Loan,1
+5,8,78,54,19,58,3,4,83,31,12,5,5,93,Import/Export,FD,Gold Loan,1
+5,5,24,71,12,59,64,72,87,20,3,60,10,83,Private Sector,SIP,SBI Magnum SIP,1
+2,6,10,93,36,82,54,33,10,37,26,60,64,86,Contractor,Loan,Gold Loan,1
+1,3,27,57,13,53,60,68,51,14,29,37,20,77,PSU,SIP,SBI Focused Equity SIP,1
+1,3,7,94,71,28,22,40,18,74,31,44,51,12,Engineer/Architect,RD,SBI Bluechip Fund SIP,1
+3,2,50,95,36,51,14,53,8,2,91,95,1,68,Student,RD,SBI Bluechip Fund SIP,1
+5,3,50,25,41,17,9,81,30,56,62,6,8,47,Service Sector,SIP,Personal Loan,1
+8,3,3,50,3,16,94,16,41,96,8,19,51,13,PSU,SIP,SBI Focused Equity SIP,1
+4,3,2,88,87,9,11,28,93,39,5,64,2,20,Jeweller,Loan,SBI Credit Card,1
+4,6,19,35,55,72,26,21,98,0,1,68,1,72,Migrant Labour,Credit,Loan Against Property,1
+3,8,95,42,4,36,1,93,83,73,3,94,14,24,Contractor,Credit,SBI Bluechip Fund SIP,1
+7,5,72,67,9,7,19,95,41,60,1,13,58,76,Migrant Labour,Credit,SBI Bluechip Fund SIP,1
+2,2,63,52,25,32,12,51,31,94,56,17,13,34,Import/Export,SIP,SBI Special FD (400 Days),1
+1,5,51,95,33,28,16,21,66,83,7,69,27,60,Contractor,RD,SBI Multi Option Deposit (MODS),1
+5,2,80,3,1,1,19,11,37,34,56,69,7,71,Political/Social Worker,Credit,SBI Equity SIP,1
+2,6,47,5,14,80,39,67,70,21,14,31,16,21,PSU,RD,SBI Term Deposit,1
+7,4,85,99,11,72,4,14,8,61,33,44,59,83,Pawn Shop,FD,SBI Credit Card,1
+3,3,74,73,9,17,17,34,7,42,32,49,61,2,CA/Finance,RD,SBI Magnum SIP,1
+4,6,46,78,13,30,41,92,6,80,73,50,21,28,Industrialist,Loan,Two-Wheeler Loan,1
+7,8,24,3,60,56,16,30,40,2,4,66,56,89,Pawn Shop,FD,SBI Multi Option Deposit (MODS),1
+4,2,87,86,10,97,3,18,23,65,31,59,46,65,Central Govt,Credit,Car Loan,1
+5,3,6,48,5,16,89,41,32,93,57,71,11,39,Political/Social Worker,SIP,SBI Focused Equity SIP,1
+7,6,0,96,78,51,22,34,94,68,0,4,6,99,Defence,Loan,SBI Equity SIP,1
+4,6,97,50,0,36,3,92,28,68,35,52,37,95,Service Sector,SIP,SBI Special FD (200 Days),1
+8,3,51,97,0,42,49,70,6,16,16,58,78,2,Pawn Shop,Credit,SBI Debt SIP,1
+6,6,92,68,1,29,7,22,49,84,41,89,10,46,Jeweller,Credit,SBI Special FD (200 Days),1
+7,4,20,50,0,62,80,13,14,58,16,82,70,49,Student,RD,SBI Flexi RD Scheme,1
+2,6,48,96,5,76,47,50,68,0,6,12,26,42,Import/Export,RD,Business Loan,1
+4,3,16,57,44,55,40,53,77,86,4,87,19,28,State Govt,RD,SBI Debt SIP,1
+3,6,44,80,49,60,7,36,86,66,3,35,11,4,Student,SIP,SBI Multi Option Deposit (MODS),1
+6,3,95,40,0,14,5,43,83,57,11,85,6,49,Contractor,SIP,Loan Against Property,1
+4,7,43,94,44,43,13,51,82,66,12,27,6,66,Agriculture,FD,SBI Magnum SIP,1
+3,5,48,67,14,14,38,50,82,47,8,71,10,0,Contractor,Credit,SBI Recurring Deposit,1
+2,4,29,2,6,62,65,5,91,94,0,14,9,70,CA/Finance,SIP,SBI Hybrid SIP,1
+6,3,17,90,21,39,62,87,60,7,25,20,15,92,Engineer/Architect,SIP,SBI Hybrid SIP,1
+5,3,26,96,26,32,48,89,72,91,24,43,4,42,Agriculture,Credit,Personal Loan,1
+4,4,14,71,33,97,53,88,79,78,3,27,18,72,Engineer/Architect,Loan,Home Loan,1
+1,2,8,61,30,18,62,80,65,73,23,54,12,27,Contractor,SIP,SBI Focused Equity SIP,1
+8,4,49,51,0,9,51,20,2,36,78,14,20,86,Retired,FD,SBI Special FD (400 Days),1
+7,2,8,24,43,55,49,89,38,63,4,71,58,85,Political/Social Worker,SIP,SBI Small Cap SIP,1
+8,4,9,98,9,90,82,59,72,94,25,18,3,37,Migrant Labour,SIP,SBI Focused Equity SIP,1
+7,5,44,52,53,65,3,61,4,22,77,43,19,51,Legal Prof,RD,SBI Bluechip Fund SIP,1
+4,7,23,94,16,27,61,49,88,63,6,27,6,85,Housewife,SIP,SBI Hybrid SIP,1
+5,6,41,46,7,75,52,24,91,43,8,14,1,50,Pawn Shop,FD,SBI WeCare FD (Senior Citizens),1
+2,4,76,69,7,95,17,20,76,6,3,89,21,78,Import/Export,Loan,Credit Card Loan,1
+7,4,78,15,15,95,7,36,52,17,39,19,9,45,Industrialist,FD,SBI Hybrid SIP,1
+7,6,45,21,38,92,17,13,48,91,0,84,52,44,PSU,Loan,SBI Equity SIP,1
+1,4,29,86,30,53,41,24,33,14,19,37,48,22,PSU,SIP,Home Loan,1
+1,1,51,90,43,13,6,98,34,32,13,51,53,0,Legal Prof,FD,SBI Special FD (400 Days),1
+8,2,35,79,57,66,8,19,31,73,8,61,61,57,Defence,RD,Overdraft Facility,1
+1,2,7,52,72,66,21,3,14,29,31,12,55,20,CA/Finance,Loan,SBI Small Cap SIP,1
+6,3,47,63,21,36,32,30,62,73,19,17,19,19,Trade Sector,FD,Overdraft Facility,1
+6,3,81,54,1,73,18,0,86,37,0,8,14,94,Pawn Shop,Loan,Car Loan,1
+8,5,17,86,62,74,21,51,32,8,3,63,65,29,Housewife,Credit,Two-Wheeler Loan,1
+7,1,88,45,1,52,11,25,37,60,41,66,22,53,Legal Prof,FD,SBI Special FD (400 Days),1
+4,4,59,40,38,47,3,25,35,62,20,76,45,35,Legal Prof,Loan,SBI Focused Equity SIP,1
+5,2,78,27,5,7,17,28,42,20,30,80,28,87,Legal Prof,FD,SBI Credit Card,1
+2,4,33,71,1,51,66,6,66,75,29,18,5,89,Legal Prof,FD,SBI Multi Option Deposit (MODS),1
+6,7,47,92,13,53,40,5,2,48,49,22,49,91,Medical Prof,SIP,Tractor Loan,1
+3,4,44,39,55,23,1,28,1,66,44,67,55,65,PSU,SIP,SBI Debt SIP,1
+5,7,31,62,60,34,9,50,41,70,0,44,59,76,Engineer/Architect,Loan,Personal Loan,1
+6,5,23,12,64,99,13,72,47,13,9,99,44,9,PSU,RD,SBI Hybrid SIP,1
+7,7,98,46,1,80,1,51,78,17,8,78,14,17,Contractor,SIP,SBI Hybrid SIP,1
+5,6,93,30,1,96,6,67,1,69,68,86,31,18,Service Sector,RD,Tractor Loan,1
+8,7,64,26,5,78,31,51,70,97,15,86,15,47,Import/Export,Loan,SBI Bluechip Fund SIP,1
+7,3,43,9,36,53,21,90,16,5,37,5,47,51,Defence,SIP,SBI Small Cap SIP,1
+8,6,6,57,50,30,44,65,57,91,25,12,18,17,Political/Social Worker,RD,Tractor Loan,1
+3,5,56,34,28,18,16,54,55,76,4,68,41,43,Political/Social Worker,Loan,SBI Multi Option Deposit (MODS),1
+8,2,4,48,92,2,4,91,53,37,21,13,26,46,Import/Export,RD,Overdraft Facility,1
+1,6,43,15,5,14,52,97,64,80,24,2,12,66,Legal Prof,FD,SBI WeCare FD (Senior Citizens),1
+1,7,37,89,62,18,1,51,0,29,70,54,30,13,Engineer/Architect,Credit,SBI Special FD (200 Days),1
+2,3,40,5,47,33,13,51,11,40,9,82,80,5,Migrant Labour,FD,SBI Tax Savings FD,1
+1,8,71,72,9,27,20,23,9,18,9,96,82,67,Student,RD,Credit Card Loan,1
+4,2,83,41,5,65,12,29,52,8,33,90,15,41,Agriculture,FD,Agriculture Loan,1
+8,1,28,72,49,60,23,82,75,45,16,45,9,16,Engineer/Architect,FD,Agriculture Loan,1
+5,3,53,7,15,71,32,86,80,95,6,81,14,37,Trade Sector,SIP,SBI Tax Savings FD,1
+4,7,49,18,30,50,21,71,8,97,7,56,85,67,Industrialist,RD,Car Loan,1
+3,3,11,72,45,46,44,87,29,62,31,25,40,2,Contractor,RD,Credit Card Loan,1
+2,4,28,4,37,19,35,77,76,13,19,7,5,47,Import/Export,Credit,SBI Bluechip Fund SIP,1
+7,3,85,2,1,89,14,77,50,57,39,71,11,54,State Govt,FD,SBI Equity SIP,1
+2,1,37,3,21,93,42,65,60,92,3,42,37,61,Political/Social Worker,SIP,SBI Equity SIP,1
+5,4,84,1,3,8,13,56,64,44,25,17,11,47,Student,Loan,Credit Card Loan,1
+1,3,41,40,34,98,25,49,37,85,2,71,61,78,Defence,Credit,Business Loan,1
+3,8,16,76,64,55,20,92,92,40,1,41,7,5,Contractor,Credit,Home Loan,1
+3,1,39,43,40,57,21,66,8,12,7,18,85,97,Industrialist,Loan,SBI Annuity Deposit,1
+4,2,29,51,65,80,6,30,76,14,20,19,4,4,Medical Prof,FD,SBI Bluechip Fund SIP,1
+3,8,90,49,9,1,1,83,44,67,27,76,29,23,Retired,Credit,SBI Annuity Deposit,1
+6,2,47,35,44,1,9,17,92,48,1,7,7,57,Service Sector,Loan,SBI Multi Option Deposit (MODS),1
+7,2,92,63,2,33,6,17,36,63,48,73,16,43,Industrialist,Loan,SBI Magnum SIP,1
+5,4,41,33,26,94,33,86,63,70,1,63,36,32,CA/Finance,SIP,Tractor Loan,1
+4,3,73,38,16,40,11,9,49,11,39,78,12,94,Migrant Labour,SIP,Education Loan,1
+4,7,97,37,2,43,1,50,80,96,6,84,14,25,State Govt,SIP,Gold Loan,1
+1,1,5,89,36,40,59,50,1,46,68,12,31,75,Student,Loan,Gold Loan,1
+2,3,58,1,26,89,16,14,9,45,12,56,79,9,Defence,Loan,SBI Tax Savings FD,1
+5,8,84,90,5,39,11,21,96,29,0,61,4,72,Student,Credit,Car Loan,1
+2,2,26,7,69,84,5,17,61,77,31,14,8,25,Private Sector,Credit,Two-Wheeler Loan,1
+8,7,31,10,17,31,52,19,69,96,22,39,9,7,Trade Sector,FD,SBI Annuity Deposit,1
+3,5,77,17,20,97,3,11,23,15,16,3,61,88,PSU,FD,SBI Credit Card,1
+8,6,76,64,6,24,18,27,73,35,23,81,4,5,Jeweller,FD,Car Loan,1
+6,8,82,66,17,47,1,64,69,43,13,93,18,62,CA/Finance,RD,SBI Debt SIP,1
+8,3,70,6,13,8,17,3,49,88,40,48,11,75,Migrant Labour,FD,Agriculture Loan,1
+5,7,65,28,3,65,32,33,31,26,65,59,4,38,PSU,SIP,Loan Against Property,1
+2,4,90,93,3,88,7,94,20,26,22,97,58,71,Journalist,RD,Pension Loan,1
+2,4,94,47,2,9,4,72,73,38,5,99,22,99,Defence,RD,SBI Flexi RD Scheme,1
+4,3,61,38,12,29,27,4,24,80,41,17,35,20,Pawn Shop,FD,SBI Focused Equity SIP,1
+1,6,79,29,1,57,20,51,0,36,56,47,44,86,Retired,Loan,SBI Special FD (400 Days),1
+6,3,55,96,36,78,9,21,16,26,81,54,3,31,Central Govt,SIP,Tractor Loan,1
+3,4,73,74,19,70,8,16,24,81,25,6,51,55,Political/Social Worker,SIP,Loan Against Property,1
+3,4,50,15,26,86,24,59,50,75,10,39,40,66,CA/Finance,FD,SBI Credit Card,1
+6,8,23,33,1,40,76,40,64,74,19,90,17,22,Housewife,SIP,SBI Focused Equity SIP,1
+4,3,29,5,64,74,7,98,40,3,19,92,41,9,Pawn Shop,RD,SBI Overdraft,1
+6,1,7,14,80,30,13,20,82,2,0,65,18,34,Service Sector,Loan,SBI Magnum SIP,1
+8,8,58,32,20,83,22,48,11,20,11,59,78,51,Import/Export,Loan,SBI Multi Option Deposit (MODS),1
+3,2,85,71,9,61,6,89,70,87,6,23,24,39,Defence,SIP,SBI Tax Savings FD,1
+8,6,2,46,53,87,45,67,20,83,47,62,33,15,Migrant Labour,FD,Overdraft Facility,1
+2,5,10,47,28,14,62,83,78,33,5,59,17,61,Private Sector,SIP,SBI Debt SIP,1
+4,8,97,95,0,36,3,73,77,48,15,47,8,72,Journalist,SIP,SBI Bluechip Fund SIP,1
+5,4,22,6,26,48,52,53,94,67,2,77,4,41,CA/Finance,SIP,SBI Debt SIP,1
+3,4,25,7,22,52,53,13,72,70,4,6,24,8,Central Govt,SIP,SBI Hybrid SIP,1
+6,1,43,57,21,27,36,13,45,8,25,25,30,1,Retired,RD,SBI Multi Option Deposit (MODS),1
+8,2,38,49,17,22,45,87,12,28,4,71,84,25,Journalist,Loan,Personal Loan,1
+4,1,77,30,9,69,14,48,97,4,2,30,1,36,Legal Prof,SIP,Overdraft Facility,1
+5,4,10,39,42,62,48,1,69,78,22,86,9,85,State Govt,Loan,SBI Tax Savings FD,1
+8,6,58,58,29,63,13,7,8,51,64,17,28,90,CA/Finance,FD,SBI Flexi RD Scheme,1
+2,1,47,99,44,84,9,45,53,95,35,30,12,36,Student,Loan,SBI Bluechip Fund SIP,1
+1,5,50,41,34,44,16,67,80,74,13,46,7,78,Medical Prof,FD,Overdraft Facility,1
+2,7,12,37,70,51,18,43,95,63,1,12,4,87,Private Sector,SIP,SBI Flexi RD Scheme,1
+3,2,97,41,2,94,1,49,0,59,42,0,58,50,Central Govt,FD,Business Loan,1
+7,5,86,88,4,5,10,30,97,68,0,39,3,29,State Govt,Credit,Two-Wheeler Loan,1
+7,5,3,64,49,26,48,49,2,76,11,16,87,71,Import/Export,SIP,SBI Special FD (400 Days),1
+1,2,98,17,1,49,1,45,23,47,53,32,24,86,PSU,Loan,Gold Loan,1
+3,1,58,24,9,83,33,56,94,65,3,14,3,27,Student,Credit,SBI WeCare FD (Senior Citizens),1
+4,4,13,53,65,78,22,11,33,8,24,30,43,77,Stock Broker,Credit,SBI Equity SIP,1
+8,3,41,65,7,15,52,82,47,93,2,15,51,30,Industrialist,FD,SBI Special FD (400 Days),1
+2,4,9,31,50,29,41,35,17,8,46,35,37,28,Defence,SIP,SBI Equity SIP,1
+8,7,65,99,34,30,1,32,27,86,54,59,19,40,Political/Social Worker,Loan,SBI Term Deposit,1
+1,1,22,87,26,2,52,59,88,75,2,98,10,78,Contractor,SIP,SBI Equity SIP,1
+2,8,82,39,6,84,12,47,68,50,25,56,7,70,Trade Sector,Credit,SBI Hybrid SIP,1
+3,2,54,32,40,39,6,98,96,33,3,61,1,99,Student,RD,SBI Special FD (400 Days),1
+3,5,9,57,12,58,79,75,92,58,4,76,4,85,Political/Social Worker,SIP,SBI Magnum SIP,1
+5,1,37,10,62,57,1,39,52,85,0,98,48,59,Stock Broker,RD,Two-Wheeler Loan,1
+6,4,7,16,4,37,89,8,53,73,43,83,4,77,Agriculture,SIP,SBI Focused Equity SIP,1
+2,5,61,97,26,79,13,32,24,2,35,86,41,10,Engineer/Architect,FD,SBI Flexi RD Scheme,1
+2,7,43,87,28,28,29,92,58,89,4,66,38,1,Migrant Labour,Loan,SBI Flexi RD Scheme,1
+3,8,82,53,0,44,18,48,61,98,26,68,13,37,Central Govt,SIP,SBI Multi Option Deposit (MODS),1
+6,5,52,10,47,33,1,14,30,9,21,95,49,52,Student,Credit,Two-Wheeler Loan,1
+4,7,13,38,86,65,1,37,15,40,24,97,61,39,Industrialist,RD,SBI Flexi RD Scheme,1
+1,4,81,90,12,97,7,10,58,0,36,12,6,29,CA/Finance,Credit,SBI WeCare FD (Senior Citizens),1
+6,5,71,79,17,30,12,50,70,26,19,59,11,32,Trade Sector,Credit,SBI Recurring Deposit,1
+5,8,40,84,18,88,42,41,84,22,8,74,8,32,State Govt,SIP,SBI Small Cap SIP,1
+2,8,11,14,31,50,58,5,32,90,67,68,1,68,Housewife,Loan,Home Loan,1
+4,3,33,25,62,85,5,96,67,60,17,77,16,94,Stock Broker,FD,SBI Special FD (400 Days),1
+8,5,71,6,1,82,28,6,86,46,8,7,6,77,CA/Finance,Loan,SBI Overdraft,1
+5,3,91,99,5,66,4,63,50,67,14,4,36,89,Student,Loan,Credit Card Loan,1
+8,4,58,22,2,39,40,96,90,77,1,86,9,94,Stock Broker,Credit,SBI Small Cap SIP,1
+4,3,20,41,0,8,80,22,37,77,40,10,23,70,Retired,SIP,SBI Magnum SIP,1
+8,2,45,60,37,82,18,37,68,27,4,25,28,60,Central Govt,FD,SBI Hybrid SIP,1
+6,1,91,82,0,41,9,61,2,57,68,56,30,0,PSU,Loan,SBI Credit Card,1
+5,3,33,24,24,53,43,72,41,66,28,14,31,3,Medical Prof,Credit,Loan Against Property,1
+4,1,36,44,61,96,3,32,7,6,36,21,57,4,Agriculture,Credit,SBI EMI Card,1
+1,1,49,6,6,39,45,44,49,58,18,87,33,74,Political/Social Worker,Loan,SBI Hybrid SIP,1
+8,1,95,78,4,20,1,87,43,49,1,80,56,51,Stock Broker,SIP,Pension Loan,1
+3,4,17,87,29,46,54,82,64,93,23,89,13,43,Journalist,SIP,SBI Bluechip Fund SIP,1
+6,5,67,91,16,87,17,80,96,49,0,39,4,45,Import/Export,RD,Overdraft Facility,1
+4,5,64,77,8,12,28,1,91,67,1,75,8,47,Service Sector,FD,Car Loan,1
+4,6,4,18,2,13,94,20,9,42,42,27,49,20,Agriculture,Credit,SBI Overdraft,1
+6,1,82,60,12,37,6,65,73,32,10,42,17,30,Stock Broker,RD,Gold Loan,1
+7,7,22,89,35,88,43,80,39,14,38,36,23,3,Defence,Loan,SBI Debt SIP,1
+1,6,16,93,71,85,13,79,97,93,1,79,2,37,Medical Prof,SIP,Car Loan,1
+6,4,5,74,25,37,70,79,90,82,8,42,2,52,Retired,SIP,SBI Magnum SIP,1
+2,8,55,86,30,3,15,9,82,62,8,72,10,82,Migrant Labour,RD,Home Loan,1
+2,7,62,17,20,80,18,65,33,50,16,64,51,42,Journalist,Loan,Credit Card Loan,1
+5,8,68,30,23,54,9,37,75,72,3,89,22,14,Political/Social Worker,Credit,SBI Small Cap SIP,1
+6,5,6,42,56,39,38,29,54,9,3,93,43,6,Political/Social Worker,SIP,Car Loan,1
+8,7,19,48,48,89,33,25,95,35,2,42,3,98,Defence,RD,Car Loan,1
+4,1,77,87,0,14,23,94,44,16,44,11,12,21,Defence,FD,SBI Term Deposit,1
+4,2,50,27,12,43,38,18,56,45,17,2,27,82,Defence,SIP,SBI Small Cap SIP,1
+3,5,80,77,16,58,4,38,54,56,34,82,12,66,Political/Social Worker,FD,SBI Focused Equity SIP,1
+1,1,26,26,20,36,54,65,40,53,30,8,30,82,Stock Broker,SIP,SBI Debt SIP,1
+8,4,58,38,39,6,3,3,53,14,44,75,3,47,Contractor,SIP,Pension Loan,1
+3,8,67,70,12,9,21,24,18,43,61,98,21,57,Trade Sector,Loan,SBI Overdraft,1
+8,4,39,9,11,65,50,24,69,70,27,86,4,10,Journalist,FD,Education Loan,1
+1,8,86,76,10,50,4,16,6,31,90,25,4,21,Journalist,Credit,SBI Overdraft,1
+4,7,32,67,13,38,55,0,63,40,16,44,21,87,State Govt,FD,SBI Tax Savings FD,1
+2,8,80,62,12,98,8,22,70,53,8,46,22,38,Legal Prof,FD,Personal Loan,1
+6,8,73,48,0,49,27,57,68,52,2,90,30,56,Journalist,FD,SBI Annuity Deposit,1
+2,7,44,71,15,53,41,73,71,96,10,30,19,75,Import/Export,Loan,Gold Loan,1
+1,8,93,83,6,18,1,99,10,89,61,73,29,23,Retired,Credit,SBI Overdraft,1
+4,6,97,47,0,76,3,23,35,53,16,94,49,90,Student,FD,SBI Equity SIP,1
+4,7,78,54,2,37,20,32,5,7,77,89,18,78,State Govt,SIP,SBI Hybrid SIP,1
+8,3,55,87,32,9,13,51,99,49,0,33,1,35,Journalist,Credit,Education Loan,1
+8,7,70,82,14,39,16,64,85,34,10,68,5,49,Retired,SIP,Two-Wheeler Loan,1
+5,3,62,35,8,53,30,46,48,31,47,98,5,94,Journalist,SIP,SBI Equity SIP,1
+7,8,95,57,2,31,3,65,37,50,29,10,34,58,Private Sector,SIP,Gold Loan,1
+1,6,18,4,54,41,28,87,39,47,6,6,55,10,Engineer/Architect,Loan,SBI Multi Option Deposit (MODS),1
+6,1,85,31,7,47,8,70,50,70,19,19,31,88,PSU,Credit,Car Loan,1
+4,8,76,60,19,75,5,80,38,64,3,61,59,80,Service Sector,FD,Loan Against Property,1
+4,2,42,38,17,27,41,79,39,62,24,63,37,11,Jeweller,Loan,SBI Special FD (200 Days),1
+5,7,79,44,20,89,1,21,50,9,47,6,3,72,Student,Loan,SBI Term Deposit,1
+7,5,45,60,25,91,30,60,84,50,6,37,10,11,Contractor,Credit,Agriculture Loan,1
+8,2,38,77,11,29,51,47,38,82,50,30,12,24,Stock Broker,FD,SBI Multi Option Deposit (MODS),1
+2,3,99,66,0,79,1,89,62,55,36,18,2,45,Import/Export,Loan,SBI Equity SIP,1
+1,6,46,65,30,4,24,8,11,19,84,81,5,62,Agriculture,FD,Pension Loan,1
+7,6,90,46,4,21,6,77,4,56,28,82,68,34,Retired,FD,SBI Credit Card,1
+6,4,33,14,44,36,23,14,49,59,1,95,50,84,PSU,Loan,Home Loan,1
+8,2,51,40,22,56,27,96,98,24,0,36,2,39,Legal Prof,Credit,SBI Term Deposit,1
+4,8,97,68,2,4,1,88,90,25,8,18,2,29,Industrialist,SIP,SBI Annuity Deposit,1
+8,8,17,0,55,2,28,94,20,24,30,7,50,64,Trade Sector,RD,SBI Multi Option Deposit (MODS),1
+3,7,48,51,10,65,42,67,40,91,49,96,11,74,Migrant Labour,RD,Agriculture Loan,1
+5,8,84,10,5,43,11,85,36,52,59,76,5,60,Housewife,RD,Tractor Loan,1
+4,6,10,16,84,47,6,13,84,62,6,63,10,96,Jeweller,RD,Tractor Loan,1
+1,2,76,44,4,46,20,6,29,13,40,47,31,5,Migrant Labour,FD,SBI Annuity Deposit,1
+3,5,45,66,5,3,50,95,7,0,23,33,70,8,Defence,SIP,Credit Card Loan,1
+2,2,47,23,22,84,31,94,5,57,87,63,8,93,Pawn Shop,FD,SBI WeCare FD (Senior Citizens),1
+4,3,88,59,5,67,7,28,64,37,15,91,21,21,Trade Sector,Loan,Tractor Loan,1
+3,2,76,10,21,85,3,99,61,16,13,50,26,95,Retired,FD,SBI Small Cap SIP,1
+5,6,56,91,3,10,41,98,10,78,73,7,17,83,Retired,FD,SBI Magnum SIP,1
+5,1,29,94,56,16,15,58,79,30,8,63,13,47,Political/Social Worker,FD,SBI Term Deposit,1
+3,2,59,71,26,79,15,61,11,28,12,34,77,59,Pawn Shop,Credit,SBI Recurring Deposit,1
+5,4,60,58,1,39,39,48,32,31,61,37,7,91,Journalist,Credit,SBI Equity SIP,1
+6,4,38,23,22,57,40,62,91,33,0,50,9,85,Import/Export,FD,SBI Debt SIP,1
+8,5,6,29,89,30,5,4,12,31,79,15,9,72,Private Sector,SIP,Agriculture Loan,1
+5,5,15,14,42,43,43,89,83,8,11,64,6,98,Medical Prof,SIP,SBI Special FD (200 Days),1
+5,7,73,82,15,30,12,65,32,17,5,27,63,67,Industrialist,Credit,Personal Loan,1
+7,2,79,51,12,35,9,0,57,38,1,86,42,89,Retired,RD,SBI Focused Equity SIP,1
+2,1,87,70,9,22,4,42,13,21,77,59,10,99,Jeweller,RD,SBI Bluechip Fund SIP,1
+2,7,18,66,61,62,21,4,70,71,11,77,19,60,Journalist,SIP,Business Loan,1
+7,2,95,13,1,72,4,93,75,68,9,64,16,64,Medical Prof,Loan,SBI EMI Card,1
+4,1,25,61,43,44,32,10,66,71,5,92,29,73,Jeweller,FD,SBI Bluechip Fund SIP,1
+6,5,80,4,10,62,10,28,97,47,2,97,1,15,CA/Finance,Loan,Gold Loan,1
+8,5,45,66,24,93,31,33,22,31,33,28,45,8,Housewife,FD,SBI Small Cap SIP,1
+7,7,68,81,7,48,25,15,95,20,1,9,4,3,Medical Prof,SIP,SBI Magnum SIP,1
+8,7,54,29,18,55,28,80,63,43,8,58,29,14,Student,SIP,Loan Against Property,1
+8,6,89,46,8,16,3,56,22,53,76,90,2,51,CA/Finance,Credit,SBI Special FD (400 Days),1
+7,3,77,65,15,51,8,13,94,72,4,73,2,62,Import/Export,SIP,SBI Term Deposit,1
+1,6,16,76,58,81,26,2,51,36,3,96,46,23,Central Govt,RD,Home Loan,1
+1,4,76,68,9,58,15,8,80,76,10,59,10,62,Stock Broker,SIP,SBI Hybrid SIP,1
+6,3,67,6,20,15,13,22,42,57,8,86,50,30,Agriculture,Loan,Gold Loan,1
+6,3,58,96,27,9,15,6,17,36,76,95,7,44,State Govt,SIP,SBI Debt SIP,1
+6,3,86,12,1,38,13,43,59,27,39,39,2,15,Journalist,FD,SBI Special FD (400 Days),1
+8,4,91,15,8,52,1,53,59,48,11,35,30,61,Defence,SIP,SBI Focused Equity SIP,1
+8,8,72,97,4,1,24,52,80,6,16,99,4,76,Stock Broker,SIP,SBI EMI Card,1
+6,3,58,78,1,16,41,51,2,6,55,4,43,97,PSU,Loan,SBI Debt SIP,1
+5,5,66,21,20,53,14,4,40,16,7,77,53,40,CA/Finance,SIP,SBI Recurring Deposit,1
+1,3,21,9,47,17,32,98,52,79,28,48,20,70,Service Sector,RD,SBI Hybrid SIP,1
+4,7,80,82,6,28,14,19,32,19,39,73,29,11,Service Sector,Loan,SBI Bluechip Fund SIP,1
+1,1,3,25,3,78,94,89,8,91,14,70,78,31,Student,RD,SBI Flexi RD Scheme,1
+3,4,77,96,12,95,11,82,55,29,43,15,2,11,Migrant Labour,FD,Home Loan,1
+2,5,11,85,59,99,30,0,59,42,28,54,13,39,Political/Social Worker,FD,Home Loan,1
+8,1,29,28,70,22,1,33,70,83,17,14,13,96,Defence,Credit,SBI Multi Option Deposit (MODS),1
+8,4,87,7,5,86,8,77,36,67,6,20,58,60,Import/Export,FD,SBI Debt SIP,1
+6,6,74,57,21,13,5,77,28,65,24,53,48,76,CA/Finance,RD,SBI EMI Card,1
+2,6,20,27,52,3,28,54,82,14,15,63,3,64,Defence,SIP,SBI Flexi RD Scheme,1
+1,1,68,35,25,93,7,67,38,86,12,20,50,62,Private Sector,Credit,Loan Against Property,1
+8,7,94,49,2,11,4,55,75,14,13,82,12,91,Student,Loan,Gold Loan,1
+5,6,66,20,32,83,2,64,42,16,57,92,1,7,Agriculture,FD,SBI Credit Card,1
+2,2,12,22,37,85,51,20,24,53,61,62,15,29,Import/Export,Loan,Overdraft Facility,1
+4,1,75,6,8,71,17,96,31,88,23,0,46,2,Legal Prof,SIP,Overdraft Facility,1
+1,6,37,34,52,73,11,75,90,73,5,53,5,97,State Govt,SIP,SBI Debt SIP,1
+5,8,99,61,0,42,1,86,99,77,0,31,1,66,Import/Export,RD,SBI Special FD (400 Days),1
+6,1,68,35,16,69,16,14,32,99,18,96,50,23,State Govt,RD,SBI Multi Option Deposit (MODS),1
+3,1,32,30,40,64,28,97,55,17,28,81,17,5,Agriculture,SIP,Agriculture Loan,1
+1,7,93,68,3,8,4,68,31,60,9,10,60,98,Contractor,RD,Education Loan,1
+2,7,7,18,48,1,45,54,23,10,32,98,45,16,State Govt,FD,SBI Overdraft,1
+3,6,84,6,8,19,8,42,65,5,0,54,35,99,PSU,RD,SBI Credit Card,1
+5,3,34,66,7,70,59,63,67,1,15,0,18,57,Medical Prof,FD,SBI Term Deposit,1
+6,3,87,17,4,87,9,31,84,44,11,32,5,73,Trade Sector,Loan,SBI Multi Option Deposit (MODS),1
+1,1,67,95,27,43,6,79,86,54,4,9,10,13,Trade Sector,SIP,Home Loan,1
+8,2,36,87,40,83,24,93,24,83,7,17,69,67,CA/Finance,SIP,Loan Against Property,1
+3,2,17,5,55,25,28,84,22,60,34,87,44,14,Legal Prof,RD,SBI Flexi RD Scheme,1
+4,8,63,78,6,44,31,34,85,25,10,22,5,12,Private Sector,FD,Car Loan,1
+5,2,35,33,5,80,60,66,10,45,37,97,53,85,Agriculture,FD,SBI WeCare FD (Senior Citizens),1
+4,6,73,76,9,9,18,74,8,67,84,57,8,94,Private Sector,Loan,SBI Special FD (200 Days),1
+2,2,32,7,31,45,37,13,54,97,32,7,14,70,PSU,Credit,SBI Debt SIP,1
+5,7,13,60,74,16,13,77,1,88,97,47,2,90,Jeweller,Loan,Gold Loan,1
+4,6,25,78,36,41,39,89,69,75,8,40,23,46,Retired,Loan,SBI Multi Option Deposit (MODS),1
+1,7,30,76,61,79,9,65,7,44,29,17,64,98,Student,Credit,SBI Special FD (400 Days),1
+5,3,82,94,17,35,1,67,24,55,37,38,39,62,Defence,FD,SBI Hybrid SIP,1
+2,8,4,44,86,91,10,18,35,6,24,57,41,80,CA/Finance,FD,SBI Annuity Deposit,1
+7,7,0,29,62,10,38,21,2,56,20,88,78,2,Retired,Credit,Education Loan,1
+7,6,63,30,3,28,34,58,49,35,38,76,13,72,Service Sector,Credit,SBI Special FD (400 Days),1
+3,1,92,52,2,13,6,63,10,79,25,9,65,30,Pawn Shop,SIP,Credit Card Loan,1
+2,4,61,70,8,89,31,23,78,11,8,59,14,83,Pawn Shop,Credit,SBI Flexi RD Scheme,1
+3,7,42,83,31,7,27,98,52,41,19,76,29,69,PSU,Credit,SBI Equity SIP,1
+5,3,5,13,32,38,63,62,78,4,14,89,8,80,Central Govt,Loan,Overdraft Facility,1
+7,4,98,76,1,96,1,92,52,52,22,45,26,97,CA/Finance,FD,SBI Magnum SIP,1
+7,3,8,4,25,61,67,83,2,83,46,4,52,9,Retired,Credit,SBI EMI Card,1
+1,4,85,41,10,19,5,98,27,85,18,78,55,10,Medical Prof,FD,SBI Small Cap SIP,1
+8,6,27,54,49,72,24,9,94,20,3,57,3,33,Engineer/Architect,Credit,Overdraft Facility,1
+3,3,57,63,0,86,43,72,20,55,61,0,19,20,State Govt,SIP,Personal Loan,1
+3,2,35,68,28,28,37,46,51,90,45,24,4,79,Legal Prof,SIP,SBI Small Cap SIP,1
+1,1,19,47,68,81,13,1,35,79,57,28,8,96,Private Sector,RD,SBI Tax Savings FD,1
+6,3,80,32,3,77,17,23,67,74,24,24,9,27,Contractor,Loan,Education Loan,1
+2,1,94,91,2,6,4,11,17,40,5,62,78,97,Defence,Loan,SBI Multi Option Deposit (MODS),1
+5,1,72,8,5,66,23,15,61,88,1,87,38,92,Agriculture,SIP,SBI Hybrid SIP,1
+8,2,34,70,58,71,8,41,13,50,46,18,41,65,Industrialist,Loan,Credit Card Loan,1
+6,6,43,22,23,73,34,56,95,78,0,22,5,35,Import/Export,Loan,SBI Recurring Deposit,1
+6,1,2,69,13,68,85,50,80,28,1,98,19,81,Service Sector,SIP,SBI Focused Equity SIP,1
+7,5,15,18,56,66,29,35,96,3,1,74,3,32,Legal Prof,SIP,SBI Flexi RD Scheme,1
+1,7,8,90,74,75,18,21,5,47,48,20,47,32,CA/Finance,Loan,SBI Bluechip Fund SIP,1
+5,5,73,12,17,26,10,61,46,73,51,95,3,44,Service Sector,RD,SBI Debt SIP,1
+3,7,32,73,1,32,67,57,74,6,13,14,13,25,PSU,FD,SBI Annuity Deposit,1
+8,6,6,78,0,29,94,93,73,7,20,87,7,82,Stock Broker,SIP,SBI Hybrid SIP,1
+7,7,5,17,41,82,54,49,49,29,47,76,4,38,Defence,Loan,Education Loan,1
+4,2,43,47,23,13,34,80,3,48,35,66,62,86,Pawn Shop,Credit,Pension Loan,1
+5,1,80,50,15,55,5,79,15,56,27,51,58,45,Service Sector,SIP,Loan Against Property,1
+4,5,40,66,33,73,27,83,58,65,28,26,14,31,CA/Finance,FD,Agriculture Loan,1
+1,2,96,17,1,72,3,71,38,88,46,94,16,41,Stock Broker,Credit,Education Loan,1
+4,4,64,15,22,89,14,54,56,94,12,64,32,80,Service Sector,Credit,SBI Special FD (200 Days),1
+5,2,43,97,30,50,27,51,73,69,21,91,6,91,Industrialist,RD,Tractor Loan,1
+1,4,56,8,1,59,43,62,7,71,62,2,31,72,Retired,Credit,Pension Loan,1
+7,1,61,44,7,52,32,62,94,94,4,80,2,56,Housewife,RD,Car Loan,1
+6,6,92,48,7,22,1,61,17,10,11,72,72,55,Contractor,Loan,SBI Hybrid SIP,1
+1,7,11,7,10,73,79,88,37,46,27,35,36,49,Migrant Labour,SIP,SBI Hybrid SIP,1
+1,1,66,99,17,52,17,27,98,62,0,14,2,18,Service Sector,SIP,SBI Debt SIP,1
+6,7,47,74,8,1,45,63,19,85,36,35,45,4,Trade Sector,FD,SBI Term Deposit,1
+8,5,45,0,19,28,36,8,27,8,34,21,39,62,Medical Prof,FD,SBI Annuity Deposit,1
+8,2,54,78,12,32,34,73,96,64,2,59,2,11,Industrialist,RD,SBI Overdraft,1
+1,4,6,59,43,5,51,97,76,6,4,45,20,56,Agriculture,Loan,Loan Against Property,1
+4,6,3,37,66,31,31,22,24,36,60,2,16,98,Contractor,Credit,Home Loan,1
+8,1,7,77,82,90,11,17,8,41,27,40,65,69,Pawn Shop,Loan,Gold Loan,1
+2,1,53,99,22,16,25,9,35,86,55,43,10,1,Import/Export,RD,SBI Term Deposit,1
+1,7,40,88,1,0,59,1,18,26,79,1,3,93,Import/Export,FD,SBI Annuity Deposit,1
+2,3,79,55,12,71,9,55,47,49,49,94,4,44,Contractor,Loan,SBI Magnum SIP,1
+7,4,54,69,37,81,9,48,40,43,28,34,32,90,Student,Credit,Business Loan,1
+2,2,56,49,27,98,17,98,35,36,9,19,56,12,Journalist,RD,SBI Focused Equity SIP,1
+5,3,55,56,44,53,1,36,59,82,3,36,38,13,Industrialist,SIP,SBI Credit Card,1
+4,4,82,63,9,27,9,3,0,40,22,59,78,17,Industrialist,Credit,SBI Multi Option Deposit (MODS),1
+7,3,88,52,1,75,11,24,5,98,82,64,13,4,Trade Sector,Loan,Agriculture Loan,1
+7,7,81,3,13,92,6,0,72,93,4,55,24,44,Jeweller,Loan,Car Loan,1
+6,8,17,83,24,30,59,29,47,79,51,65,2,80,Political/Social Worker,SIP,SBI Debt SIP,1
+7,3,50,8,8,8,42,23,53,38,16,74,31,7,Contractor,Loan,SBI Term Deposit,1
+2,2,23,5,58,69,19,31,30,38,10,47,60,12,Student,RD,Car Loan,1
+8,8,55,80,34,66,11,33,37,75,56,87,7,69,Migrant Labour,FD,Overdraft Facility,1
+8,3,23,54,17,20,60,58,26,33,53,96,21,57,CA/Finance,Credit,SBI EMI Card,1
+8,6,2,18,23,85,75,42,0,7,5,68,95,51,Retired,RD,SBI Recurring Deposit,1
+7,5,3,16,87,33,10,19,7,79,60,73,33,33,Medical Prof,RD,Credit Card Loan,1
+6,6,24,46,56,83,20,80,62,2,6,45,32,35,Journalist,FD,Credit Card Loan,1
+2,6,54,78,26,85,20,44,9,49,56,63,35,94,Service Sector,FD,Tractor Loan,1
+7,6,73,30,3,28,24,26,14,84,13,8,73,19,Medical Prof,RD,SBI Focused Equity SIP,1
+7,8,56,74,15,7,29,66,99,18,0,66,1,35,Engineer/Architect,Loan,SBI Credit Card,1
+4,3,79,16,16,47,5,83,61,85,23,69,16,6,Journalist,RD,Two-Wheeler Loan,1
+6,5,19,89,53,96,28,29,54,23,14,86,32,72,Private Sector,RD,SBI Focused Equity SIP,1
+4,8,21,49,13,79,66,97,47,9,28,70,25,88,Trade Sector,SIP,SBI Hybrid SIP,1
+7,8,70,80,26,86,4,7,79,1,2,94,19,56,Migrant Labour,SIP,SBI Focused Equity SIP,1
+3,1,7,61,58,48,35,19,1,28,94,16,5,73,PSU,Loan,SBI Debt SIP,1
+6,6,97,11,2,62,1,15,61,24,11,21,28,90,Jeweller,SIP,SBI Equity SIP,1
+2,5,79,32,3,85,18,62,11,17,48,53,41,96,Legal Prof,RD,Credit Card Loan,1
+3,8,24,59,33,53,43,86,87,4,5,35,8,53,Medical Prof,SIP,Gold Loan,1
+7,6,99,64,0,84,1,39,3,36,73,66,24,30,Import/Export,RD,SBI Multi Option Deposit (MODS),1
+5,7,46,12,26,62,28,43,50,23,19,2,31,9,Import/Export,Loan,SBI Multi Option Deposit (MODS),1
+4,2,77,30,0,67,23,97,1,82,65,36,34,72,Import/Export,Credit,Two-Wheeler Loan,1
+6,3,73,77,18,39,9,47,41,83,43,3,16,59,Migrant Labour,FD,Business Loan,1
+5,2,13,61,69,26,18,53,77,89,11,11,12,7,Industrialist,FD,SBI Annuity Deposit,1
+4,2,44,18,28,16,28,64,83,28,16,13,1,16,Service Sector,Credit,SBI Overdraft,1
+2,3,32,82,28,45,40,23,36,13,38,4,26,52,Medical Prof,FD,SBI WeCare FD (Senior Citizens),1
+7,6,72,17,26,35,2,7,27,17,25,83,48,57,Political/Social Worker,Credit,SBI Flexi RD Scheme,1
+5,1,81,32,6,49,13,3,64,83,27,35,9,94,CA/Finance,SIP,Car Loan,1
+6,5,6,64,60,5,34,23,99,36,0,44,1,50,Agriculture,SIP,SBI Bluechip Fund SIP,1
+6,5,95,54,0,24,5,90,9,44,34,95,57,11,Private Sector,SIP,Credit Card Loan,1
+2,3,72,52,0,83,28,56,81,97,8,27,11,98,Engineer/Architect,Credit,Tractor Loan,1
+3,2,31,37,37,53,32,59,69,76,17,76,14,46,Stock Broker,SIP,SBI Equity SIP,1
+3,1,81,91,7,91,12,88,65,89,3,46,32,1,PSU,FD,Home Loan,1
+6,5,43,1,22,90,35,58,96,85,3,97,1,15,Student,SIP,SBI Focused Equity SIP,1
+8,6,22,5,41,36,37,21,36,5,7,31,57,16,Import/Export,Loan,Gold Loan,1
+7,1,60,6,12,21,28,84,31,5,62,60,7,13,Engineer/Architect,RD,Pension Loan,1
+7,5,93,95,5,22,2,2,41,0,41,66,18,70,Retired,RD,Education Loan,1
+1,3,3,63,30,30,67,62,65,65,13,30,22,46,Agriculture,SIP,SBI Hybrid SIP,1
+6,2,93,88,0,57,7,60,82,45,13,0,5,95,Housewife,Loan,SBI Overdraft,1
+1,1,44,31,12,95,44,57,38,55,1,5,61,88,Medical Prof,RD,SBI WeCare FD (Senior Citizens),1
+2,6,37,23,42,53,21,33,2,38,4,87,94,99,Agriculture,SIP,SBI Annuity Deposit,1
+1,2,99,69,0,91,1,33,6,50,17,92,77,67,CA/Finance,Credit,SBI Small Cap SIP,1
+7,8,82,35,10,81,8,13,19,57,54,37,27,88,Legal Prof,FD,Personal Loan,1
+8,1,84,90,12,9,4,49,59,11,24,91,17,31,State Govt,Loan,Agriculture Loan,1
+2,2,49,98,40,97,11,69,56,30,1,22,43,75,Contractor,RD,SBI Credit Card,1
+7,3,47,58,1,58,52,37,10,24,43,20,47,41,Pawn Shop,FD,SBI Multi Option Deposit (MODS),1
+1,4,58,28,4,17,38,92,32,5,62,52,6,81,Contractor,SIP,Credit Card Loan,1
+7,7,10,56,25,26,65,58,91,61,2,19,7,2,Political/Social Worker,SIP,SBI Magnum SIP,1
+4,5,29,29,39,31,32,9,64,90,28,50,8,7,Legal Prof,RD,Education Loan,1
+2,7,35,61,55,80,10,86,35,24,60,63,5,59,PSU,Loan,SBI Multi Option Deposit (MODS),1
+7,6,51,0,3,89,46,97,19,9,53,22,28,50,PSU,Loan,SBI Bluechip Fund SIP,1
+5,5,90,98,9,33,1,16,30,20,13,95,57,66,Medical Prof,FD,SBI Tax Savings FD,1
+8,8,25,31,63,10,12,85,29,33,8,17,63,18,Industrialist,FD,Gold Loan,1
+2,4,42,5,26,76,32,86,50,55,4,88,46,67,Defence,SIP,SBI Hybrid SIP,1
+8,4,89,10,9,65,2,26,10,57,72,89,18,71,Legal Prof,Credit,SBI Equity SIP,1
+5,8,57,5,12,86,31,99,72,57,27,16,1,72,State Govt,SIP,SBI Debt SIP,1
+3,4,69,36,11,2,20,97,72,7,19,9,9,46,Pawn Shop,Loan,SBI Flexi RD Scheme,1
+2,3,13,84,3,0,84,74,1,64,96,45,3,58,Migrant Labour,Credit,SBI EMI Card,1
+5,8,65,46,14,89,21,39,71,41,21,50,8,34,Trade Sector,SIP,SBI Term Deposit,1
+1,1,56,95,37,7,7,73,71,62,10,86,19,3,Student,SIP,Loan Against Property,1
+6,1,4,80,84,88,12,23,69,85,16,76,15,16,Agriculture,FD,SBI Focused Equity SIP,1
+3,2,1,70,91,3,8,37,1,83,21,69,78,72,PSU,SIP,SBI Credit Card,1
+7,6,25,17,27,14,48,56,4,96,73,4,23,36,Defence,SIP,SBI Tax Savings FD,1
+1,3,62,20,27,41,11,80,58,68,21,81,21,16,Import/Export,SIP,SBI Debt SIP,1
+7,1,39,82,39,50,22,72,42,22,8,94,50,31,Private Sector,SIP,SBI Recurring Deposit,1
+1,8,57,63,21,52,22,50,34,36,29,89,37,5,Trade Sector,FD,SBI Bluechip Fund SIP,1
+8,1,12,74,62,10,26,87,65,77,4,93,31,43,Journalist,RD,SBI Equity SIP,1
+7,5,1,48,39,97,60,74,36,35,53,74,11,72,Industrialist,Loan,Loan Against Property,1
+8,2,36,31,31,80,33,3,59,32,11,42,30,8,Legal Prof,FD,Business Loan,1
+3,6,19,43,38,34,43,22,22,57,40,47,38,86,Retired,FD,Gold Loan,1
+1,7,27,61,63,93,10,84,61,87,18,84,21,25,Trade Sector,RD,SBI Small Cap SIP,1
+2,7,35,72,25,7,40,65,32,92,67,22,1,69,Journalist,RD,Education Loan,1
+6,6,21,25,8,0,71,99,33,4,58,40,9,62,Student,SIP,SBI Focused Equity SIP,1
+4,8,15,64,79,78,6,63,52,87,21,67,27,62,Central Govt,FD,SBI Multi Option Deposit (MODS),1
+7,2,51,48,9,21,40,95,64,28,1,34,35,80,Import/Export,SIP,SBI Bluechip Fund SIP,1
+6,4,41,70,6,59,53,29,49,11,37,48,14,94,Housewife,FD,SBI Tax Savings FD,1
+6,3,96,34,2,51,2,32,97,84,1,83,2,71,Central Govt,RD,SBI Focused Equity SIP,1
+1,6,29,4,10,65,61,12,52,62,40,81,8,89,Private Sector,SIP,SBI Equity SIP,1
+4,6,58,67,41,11,1,74,51,67,1,42,48,72,Private Sector,FD,SBI Magnum SIP,1
+6,7,30,28,52,20,18,53,5,55,32,93,63,20,Contractor,SIP,SBI Hybrid SIP,1
+2,8,45,10,19,46,36,30,21,76,59,17,20,21,Stock Broker,Loan,Loan Against Property,1
+1,8,12,10,57,12,31,96,89,49,1,37,10,0,Legal Prof,RD,Education Loan,1
+8,8,14,51,30,81,56,21,5,30,88,99,7,72,Migrant Labour,Credit,SBI Overdraft,1
+3,1,0,4,43,78,57,8,56,44,8,91,36,76,Jeweller,Loan,Agriculture Loan,1
+5,3,41,36,21,38,38,83,59,73,21,73,20,89,Contractor,Loan,SBI Equity SIP,1
+8,4,14,51,59,11,27,18,59,95,5,74,36,96,Import/Export,FD,SBI Hybrid SIP,1
+7,8,68,16,14,97,18,23,42,73,9,29,49,66,Defence,RD,SBI Credit Card,1
+5,3,4,10,27,71,69,71,77,75,6,14,17,82,Service Sector,SIP,SBI Magnum SIP,1
+6,4,70,57,29,67,1,54,81,66,5,48,14,50,Trade Sector,RD,SBI Tax Savings FD,1
+2,6,50,92,37,19,13,9,10,25,51,47,39,90,Pawn Shop,FD,SBI Term Deposit,1
+4,3,22,8,71,87,7,94,38,24,57,16,5,41,Pawn Shop,Credit,SBI Credit Card,1
+3,5,13,94,38,74,49,19,15,45,17,44,68,3,Service Sector,SIP,SBI Recurring Deposit,1
+4,3,64,96,17,99,19,17,38,46,43,30,19,98,Retired,Loan,SBI Focused Equity SIP,1
+5,7,84,70,12,59,4,11,42,58,3,76,55,53,Political/Social Worker,SIP,SBI Annuity Deposit,1
+6,6,57,40,30,34,13,9,99,80,0,29,1,43,Journalist,FD,SBI Special FD (400 Days),1
+7,7,85,53,12,29,3,19,38,95,41,41,21,88,Pawn Shop,Credit,SBI WeCare FD (Senior Citizens),1
+1,6,38,36,56,6,6,4,90,78,8,50,2,7,CA/Finance,Loan,Overdraft Facility,1
+6,4,97,59,2,95,1,14,76,37,10,0,14,45,Stock Broker,FD,SBI Bluechip Fund SIP,1
+3,8,2,31,13,37,85,96,1,45,60,41,39,5,Stock Broker,Credit,SBI Credit Card,1
+7,1,10,45,40,85,50,47,70,62,24,38,6,9,Central Govt,Credit,Loan Against Property,1
+1,1,58,72,13,54,29,69,35,94,26,80,39,52,Central Govt,RD,SBI Credit Card,1
+5,4,26,34,40,35,34,55,27,98,15,18,58,56,Student,Credit,SBI Focused Equity SIP,1
+1,7,62,98,5,79,33,58,95,24,2,16,3,38,Agriculture,Credit,SBI Credit Card,1
+3,2,23,80,37,56,40,43,87,35,0,98,13,69,Trade Sector,FD,SBI Credit Card,1
+8,5,95,24,1,30,4,84,10,44,51,66,39,75,Migrant Labour,RD,Agriculture Loan,1
+6,6,88,99,7,35,5,82,80,43,5,56,15,65,Migrant Labour,Loan,SBI EMI Card,1
+7,2,60,64,35,81,5,3,53,54,32,53,15,90,PSU,Loan,SBI Flexi RD Scheme,1
+7,4,21,51,24,75,55,15,80,15,11,80,9,54,Student,SIP,SBI Small Cap SIP,1
+7,7,39,7,26,70,35,9,20,56,65,3,15,42,Import/Export,Loan,Education Loan,1
+3,7,66,55,17,42,17,23,50,95,45,33,5,58,Jeweller,FD,Home Loan,1
+2,7,75,13,10,80,15,78,16,75,81,15,3,31,Legal Prof,FD,Home Loan,1
+8,2,70,17,0,67,30,60,67,74,6,19,27,10,Service Sector,Loan,Home Loan,1
+2,8,27,90,47,21,26,23,34,65,7,94,59,85,Pawn Shop,Loan,SBI Overdraft,1
+6,1,99,64,0,53,1,18,2,96,4,53,94,93,Defence,SIP,Credit Card Loan,1
+2,8,45,10,28,33,27,35,14,29,47,98,39,72,Service Sector,FD,SBI Special FD (400 Days),1
+7,4,32,62,21,25,47,59,35,94,22,92,43,4,Industrialist,Loan,SBI Credit Card,1
+2,4,8,92,83,26,9,54,28,80,43,4,29,51,Stock Broker,Credit,SBI Overdraft,1
+5,2,78,86,17,12,5,67,49,46,1,88,50,74,Legal Prof,FD,SBI Annuity Deposit,1
+2,4,8,69,58,42,34,73,44,22,37,78,19,44,Import/Export,Credit,Home Loan,1
+8,7,50,55,40,68,10,16,31,85,37,38,32,40,Import/Export,FD,SBI Credit Card,1
+5,2,0,67,49,66,51,40,18,9,58,27,24,33,Contractor,Loan,Business Loan,1
+7,3,55,16,35,70,10,25,2,17,22,45,76,69,Journalist,Credit,Pension Loan,1
+6,3,59,51,11,47,30,60,62,23,35,73,3,57,Engineer/Architect,Credit,Business Loan,1
+2,8,54,80,27,74,19,64,17,80,40,99,43,99,Trade Sector,SIP,Pension Loan,1
+5,4,96,69,2,58,2,60,50,57,7,69,43,92,CA/Finance,Credit,Two-Wheeler Loan,1
+1,1,82,31,16,34,2,77,53,48,43,53,4,15,Engineer/Architect,Credit,Two-Wheeler Loan,1
+4,8,7,27,20,79,73,9,47,51,7,14,46,3,Central Govt,SIP,SBI Debt SIP,1
+7,7,95,72,2,98,3,54,3,27,40,46,57,8,Defence,FD,Car Loan,1
+2,5,47,13,4,45,49,86,73,12,14,15,13,93,Pawn Shop,Loan,SBI EMI Card,1
+1,3,57,88,23,1,20,88,47,13,48,96,5,16,State Govt,RD,SBI Recurring Deposit,1
+2,6,88,29,5,33,7,17,36,87,63,62,1,48,Trade Sector,RD,SBI Focused Equity SIP,1
+3,7,84,78,2,65,14,98,22,50,46,83,32,27,Trade Sector,Loan,SBI Focused Equity SIP,1
+7,8,46,28,11,48,43,2,42,68,19,59,39,65,State Govt,FD,SBI Focused Equity SIP,1
+7,4,68,30,14,21,18,16,75,83,9,19,16,7,Contractor,FD,SBI Multi Option Deposit (MODS),1
+7,6,27,46,28,44,45,17,71,49,10,88,19,48,Student,Credit,SBI Overdraft,1
+3,7,70,23,28,31,2,90,75,95,3,58,22,95,Student,FD,Overdraft Facility,1
+6,2,4,74,15,41,81,86,10,97,34,80,56,9,Trade Sector,Credit,SBI Overdraft,1
+4,8,58,1,23,98,19,16,2,72,37,35,61,85,PSU,FD,SBI Bluechip Fund SIP,1
+4,1,1,36,84,70,15,21,33,67,26,13,41,97,Medical Prof,SIP,Credit Card Loan,1
+1,1,78,54,13,70,9,99,60,84,20,49,20,11,Journalist,Loan,Home Loan,1
+4,3,77,29,22,3,1,14,58,34,4,73,38,54,Trade Sector,FD,Two-Wheeler Loan,1
+4,8,43,50,31,84,26,2,94,69,2,31,4,1,Stock Broker,Credit,SBI Magnum SIP,1
+4,3,76,10,22,77,2,79,13,9,50,83,37,79,Migrant Labour,SIP,SBI Focused Equity SIP,1
+2,1,77,25,20,6,3,44,27,97,17,44,56,70,CA/Finance,Loan,Car Loan,1
+4,2,20,79,27,55,53,9,95,22,3,47,2,51,Trade Sector,SIP,SBI Debt SIP,1
+7,8,42,61,49,54,9,38,5,11,32,99,63,30,Agriculture,FD,SBI Equity SIP,1
+2,1,51,2,10,56,39,32,56,6,13,3,31,38,Contractor,FD,SBI Tax Savings FD,1
+8,6,3,16,26,97,71,95,85,69,5,53,10,96,Defence,SIP,SBI Debt SIP,1
+5,5,4,39,68,6,28,11,46,93,9,24,45,27,Defence,RD,Tractor Loan,1
+7,1,53,5,17,74,30,92,26,68,71,70,3,21,Stock Broker,RD,SBI Tax Savings FD,1
+5,6,31,40,0,40,69,7,53,31,45,29,2,45,Defence,FD,SBI Multi Option Deposit (MODS),1
+1,4,60,60,32,43,8,61,12,43,39,47,49,73,Central Govt,RD,SBI Small Cap SIP,1
+7,4,24,33,60,83,16,6,45,96,53,61,2,56,Jeweller,RD,SBI Overdraft,1
+5,4,4,83,75,36,21,59,92,64,2,15,6,29,Pawn Shop,Loan,Credit Card Loan,1
+5,2,47,56,19,67,34,45,92,27,7,76,1,2,Import/Export,Credit,SBI Annuity Deposit,1
+3,4,16,49,81,72,3,28,81,50,7,41,12,28,Journalist,FD,SBI Credit Card,1
+1,1,30,93,51,98,19,50,38,83,59,15,3,97,Political/Social Worker,FD,SBI Special FD (200 Days),1
+2,3,81,83,10,60,9,93,72,62,18,25,10,94,Political/Social Worker,RD,Car Loan,1
+8,8,51,33,0,6,49,74,51,10,23,35,26,19,Industrialist,Credit,SBI Bluechip Fund SIP,1
+6,6,96,20,3,36,1,26,21,34,60,37,19,59,Trade Sector,SIP,SBI Annuity Deposit,1
+3,5,48,18,20,30,32,19,29,18,21,1,50,39,PSU,RD,Agriculture Loan,1
+5,6,11,89,77,83,12,9,70,18,16,81,14,29,Legal Prof,Loan,SBI Bluechip Fund SIP,1
+2,7,95,70,2,70,3,26,50,9,36,96,14,42,Central Govt,Credit,SBI Annuity Deposit,1
+5,2,50,25,18,69,32,19,1,22,50,53,49,14,Journalist,SIP,Car Loan,1
+3,8,49,35,48,70,3,68,87,57,4,62,9,92,Stock Broker,FD,SBI Special FD (200 Days),1
+2,1,76,91,17,75,7,34,80,85,12,38,8,0,Retired,Credit,SBI Equity SIP,1
+1,4,12,75,45,6,43,50,46,2,16,49,38,25,State Govt,SIP,SBI EMI Card,1
+2,3,54,37,27,29,19,65,43,7,16,13,41,98,Pawn Shop,FD,Business Loan,1
+6,3,65,16,31,14,4,32,39,15,12,12,49,85,Legal Prof,SIP,Overdraft Facility,1
+2,2,80,29,12,70,8,9,29,98,56,65,15,93,Contractor,RD,Business Loan,1
+5,4,88,13,1,63,11,38,85,53,5,1,10,95,PSU,RD,SBI Equity SIP,1
+3,1,89,78,10,3,1,67,62,91,0,9,38,74,Service Sector,FD,SBI Hybrid SIP,1
+5,7,16,15,21,79,63,2,90,51,7,32,3,41,PSU,SIP,SBI Debt SIP,1
+7,7,47,56,26,41,27,8,14,5,6,56,80,75,Medical Prof,SIP,SBI EMI Card,1
+4,6,26,93,58,71,16,1,6,13,39,9,55,49,Medical Prof,FD,SBI WeCare FD (Senior Citizens),1
+8,4,51,80,30,61,19,76,83,49,9,76,8,80,Private Sector,SIP,SBI Tax Savings FD,1
+2,4,44,73,29,74,27,37,34,96,21,69,45,63,Contractor,Credit,Business Loan,1
+6,4,6,61,65,86,29,88,59,17,0,6,41,53,Pawn Shop,RD,SBI Overdraft,1
+2,5,68,54,30,5,2,0,97,55,1,96,2,74,Jeweller,FD,SBI Bluechip Fund SIP,1
+2,4,22,94,15,5,63,29,15,62,55,0,30,50,Housewife,Credit,SBI Overdraft,1
+1,7,20,49,37,11,43,68,68,72,30,43,2,51,Medical Prof,Loan,Car Loan,1
+1,6,9,57,45,36,46,51,99,98,0,80,1,12,Legal Prof,FD,Gold Loan,1
+8,8,80,96,4,93,16,20,5,41,73,80,22,26,Jeweller,RD,SBI Credit Card,1
+5,2,99,41,0,64,1,59,33,89,36,0,31,58,Engineer/Architect,FD,Education Loan,1
+7,6,17,21,33,79,50,60,0,21,52,49,48,15,Medical Prof,SIP,SBI Credit Card,1
+7,6,69,70,24,80,7,34,41,19,1,1,58,6,Political/Social Worker,Loan,SBI Special FD (400 Days),1
+4,1,1,85,84,48,15,1,67,16,20,82,13,87,Medical Prof,SIP,Loan Against Property,1
+4,1,97,62,2,88,1,60,87,61,9,2,4,88,Agriculture,SIP,Two-Wheeler Loan,1
+2,8,7,98,4,90,89,40,10,18,41,47,49,52,Pawn Shop,Credit,SBI EMI Card,1
+8,5,91,95,3,17,6,11,17,71,73,96,10,45,Medical Prof,FD,Pension Loan,1
+5,4,97,41,2,16,1,62,70,89,6,45,24,90,Private Sector,RD,SBI Credit Card,1
+4,6,95,23,2,23,3,55,31,80,18,17,51,11,Service Sector,Loan,SBI Hybrid SIP,1
+8,8,63,22,15,85,22,38,79,32,3,23,18,60,Retired,Credit,SBI Special FD (200 Days),1
+1,7,57,84,7,24,36,95,73,52,0,60,27,45,Service Sector,FD,SBI Credit Card,1
+3,1,72,39,19,6,9,74,47,84,19,18,34,14,CA/Finance,Credit,SBI Bluechip Fund SIP,1
+2,8,79,34,12,71,9,91,74,2,24,65,2,52,Medical Prof,SIP,SBI Overdraft,1
+5,6,2,85,64,33,34,49,14,32,83,72,3,2,Legal Prof,FD,Education Loan,1
+8,6,8,51,56,81,36,15,39,7,37,86,24,59,State Govt,SIP,Car Loan,1
+7,6,81,44,10,16,9,57,2,57,29,95,69,56,State Govt,FD,SBI Bluechip Fund SIP,1
+7,4,7,45,79,87,14,28,40,15,33,4,27,4,Pawn Shop,SIP,SBI EMI Card,1
+5,2,4,88,12,49,84,13,98,45,0,89,2,81,Retired,SIP,SBI Focused Equity SIP,1
+4,2,46,10,9,97,45,90,78,84,16,94,6,49,Trade Sector,Loan,Education Loan,1
+1,3,80,24,16,86,4,78,61,32,19,18,20,56,Engineer/Architect,Loan,Gold Loan,1
+8,4,95,37,2,25,3,80,31,4,12,48,57,96,Import/Export,RD,Gold Loan,1
+5,7,17,41,5,51,78,10,65,25,12,20,23,65,CA/Finance,SIP,SBI Focused Equity SIP,1
+3,4,79,23,9,67,12,51,4,47,13,87,83,46,Engineer/Architect,SIP,Pension Loan,1
+3,7,81,8,3,96,16,0,82,34,3,73,15,11,Migrant Labour,FD,SBI Term Deposit,1
+2,2,23,71,0,98,77,81,93,15,6,84,1,14,Retired,SIP,SBI Focused Equity SIP,1
+5,5,51,88,6,85,43,12,6,16,26,43,68,12,Stock Broker,FD,Pension Loan,1
+5,7,3,15,91,21,6,35,25,57,67,54,8,34,State Govt,Loan,Agriculture Loan,1
+1,5,57,86,11,62,32,11,56,10,32,12,12,34,Retired,RD,SBI Small Cap SIP,1
+8,3,88,21,9,77,3,90,80,41,2,19,18,47,Engineer/Architect,FD,SBI Flexi RD Scheme,1
+5,2,73,38,4,10,23,24,92,93,5,54,3,83,Industrialist,FD,Gold Loan,1
+8,7,92,52,7,86,1,15,72,17,4,18,24,43,Industrialist,FD,SBI Focused Equity SIP,1
+2,4,81,90,18,77,1,44,37,33,36,1,27,43,Medical Prof,Loan,SBI Special FD (400 Days),1
+4,4,93,88,6,17,1,32,26,32,70,95,4,24,CA/Finance,SIP,Two-Wheeler Loan,1
+6,2,34,81,22,78,44,24,88,95,0,52,12,83,Contractor,Loan,SBI Small Cap SIP,1
+3,5,24,30,41,64,35,51,44,79,48,91,8,20,Housewife,RD,Car Loan,1
+2,6,28,74,2,44,70,68,57,31,32,81,11,83,Jeweller,SIP,SBI Bluechip Fund SIP,1
+8,4,39,88,27,73,34,28,12,62,79,83,9,25,Trade Sector,RD,SBI Multi Option Deposit (MODS),1
+5,8,11,5,57,6,32,30,35,90,9,71,56,2,Service Sector,Credit,Personal Loan,1
+5,6,78,88,6,66,16,29,62,77,14,67,24,35,Retired,RD,Gold Loan,1
+1,7,71,59,25,9,4,49,65,38,27,36,8,62,Jeweller,Credit,Business Loan,1
+5,4,32,52,44,46,24,32,43,66,0,89,57,14,Industrialist,Loan,SBI Term Deposit,1
+5,7,7,5,53,96,40,27,35,49,51,37,14,29,Stock Broker,RD,SBI Multi Option Deposit (MODS),1
+1,4,70,47,13,43,17,59,27,59,16,4,57,68,Stock Broker,Credit,SBI Multi Option Deposit (MODS),1
+3,1,44,99,8,97,48,12,58,82,15,11,27,35,Stock Broker,FD,SBI Annuity Deposit,1
+4,8,5,26,3,44,92,84,29,36,45,8,26,60,Journalist,Credit,SBI EMI Card,1
+2,7,20,94,16,5,64,34,54,49,23,36,23,12,Housewife,SIP,SBI Equity SIP,1
+8,3,48,46,34,42,18,19,82,32,11,92,7,15,State Govt,Credit,Education Loan,1
+6,8,18,74,24,47,58,41,66,46,33,90,1,41,Stock Broker,SIP,SBI Debt SIP,1
+6,7,65,77,16,73,19,32,39,61,57,11,4,95,Medical Prof,Loan,SBI Bluechip Fund SIP,1
+6,5,68,96,14,59,18,45,31,67,48,93,21,40,Journalist,Loan,Car Loan,1
+5,4,99,35,0,80,1,33,17,11,50,4,33,47,CA/Finance,RD,SBI Credit Card,1
+8,5,95,56,2,21,3,15,37,76,15,75,48,81,Medical Prof,Credit,SBI WeCare FD (Senior Citizens),1
+6,2,1,71,2,10,97,75,92,31,7,3,1,8,Stock Broker,SIP,SBI Equity SIP,1
+8,8,85,23,6,63,9,55,9,77,35,77,56,88,Engineer/Architect,SIP,SBI WeCare FD (Senior Citizens),1
+7,7,90,33,2,95,8,28,18,60,51,84,31,34,Journalist,FD,Gold Loan,1
+4,5,40,43,1,69,59,90,88,34,9,61,3,73,Trade Sector,FD,SBI WeCare FD (Senior Citizens),1
+1,4,34,53,36,94,30,79,71,27,13,69,16,31,Private Sector,SIP,Overdraft Facility,1
+2,7,91,87,7,78,2,32,58,46,27,97,15,21,Migrant Labour,Credit,Home Loan,1
+2,4,73,74,18,33,9,20,44,12,29,53,27,24,Legal Prof,FD,SBI Equity SIP,1
+1,2,85,22,6,20,9,5,12,19,51,75,37,39,Private Sector,Loan,SBI WeCare FD (Senior Citizens),1
+4,3,95,78,2,34,3,80,87,24,7,98,6,18,Housewife,Loan,SBI Recurring Deposit,1
+1,7,86,7,0,25,14,33,57,18,9,77,34,71,Retired,RD,Personal Loan,1
+8,1,46,66,19,31,35,16,93,60,4,68,3,10,Political/Social Worker,SIP,Business Loan,1
+3,7,86,1,0,81,14,99,12,96,0,99,88,65,Medical Prof,SIP,SBI Annuity Deposit,1
+4,1,84,86,6,25,10,6,1,99,66,43,33,32,Migrant Labour,Loan,SBI Flexi RD Scheme,1
+4,4,22,73,24,26,54,50,89,78,4,80,7,98,Stock Broker,SIP,SBI Small Cap SIP,1
+8,7,8,23,32,87,60,23,34,18,49,38,17,60,Trade Sector,Loan,Pension Loan,1
+4,7,24,68,26,32,50,18,31,15,10,98,59,10,Industrialist,RD,Credit Card Loan,1
+2,4,86,11,6,87,8,20,24,28,33,50,43,22,Private Sector,Loan,Agriculture Loan,1
+2,5,40,87,9,61,51,74,62,45,13,66,25,92,Private Sector,FD,SBI WeCare FD (Senior Citizens),1
+8,4,6,24,80,58,14,87,83,65,10,26,7,82,Engineer/Architect,FD,SBI Overdraft,1
+5,3,18,85,38,69,44,10,84,13,9,59,7,35,Agriculture,SIP,Agriculture Loan,1
+1,2,59,55,19,92,22,57,21,87,3,64,76,87,Jeweller,FD,SBI EMI Card,1
+4,3,61,43,3,83,36,60,78,20,19,9,3,29,Private Sector,SIP,Agriculture Loan,1
+5,6,92,68,7,74,1,67,28,48,9,57,63,34,PSU,FD,Agriculture Loan,1
+6,8,84,47,15,90,1,99,77,0,20,64,3,21,Pawn Shop,SIP,SBI Special FD (200 Days),1
+3,6,18,42,39,36,43,65,97,26,0,44,3,80,Migrant Labour,Loan,SBI WeCare FD (Senior Citizens),1
+5,4,5,96,94,58,1,12,66,20,2,63,32,36,Migrant Labour,Credit,SBI Bluechip Fund SIP,1
+8,8,12,32,3,36,85,52,94,23,0,88,6,50,Pawn Shop,SIP,SBI Equity SIP,1
+5,3,50,17,49,19,1,4,35,17,59,39,6,0,Service Sector,RD,SBI Hybrid SIP,1
+2,1,82,65,15,26,3,5,61,69,17,58,22,5,Central Govt,Loan,Agriculture Loan,1
+6,8,84,91,8,35,8,24,17,6,22,81,61,19,Stock Broker,Credit,SBI WeCare FD (Senior Citizens),1
+2,8,78,71,2,70,20,40,64,49,20,29,16,37,State Govt,RD,Home Loan,1
+6,8,67,44,20,28,13,40,12,55,72,87,16,15,Industrialist,SIP,Home Loan,1
+6,3,87,61,12,30,1,52,68,16,22,48,10,48,CA/Finance,RD,SBI Focused Equity SIP,1
+5,4,21,38,28,68,51,77,44,81,45,67,11,96,Industrialist,SIP,SBI Magnum SIP,1
+4,5,67,35,7,5,26,85,51,69,39,99,10,72,Defence,RD,Loan Against Property,1
+1,2,53,14,26,90,21,79,46,20,0,0,54,92,Pawn Shop,RD,Two-Wheeler Loan,1
+4,4,36,57,30,96,34,96,59,10,30,28,11,88,Trade Sector,Credit,SBI Special FD (400 Days),1
+4,6,57,2,35,88,8,40,27,34,67,92,6,92,Journalist,SIP,Car Loan,1
+4,1,75,73,24,81,1,29,49,71,35,76,16,94,Student,Loan,Loan Against Property,1
+6,7,50,20,27,87,23,26,63,26,20,76,17,49,Student,Credit,Business Loan,1
+1,7,92,99,7,29,1,27,47,22,21,96,32,3,Private Sector,RD,SBI Flexi RD Scheme,1
+5,8,64,58,11,92,25,72,12,30,33,70,55,12,Defence,FD,Personal Loan,1
+2,7,50,42,7,58,43,29,54,58,11,8,35,91,Retired,SIP,Business Loan,1
+1,3,22,25,62,11,16,31,21,8,60,68,19,89,Central Govt,Credit,Personal Loan,1
+8,1,37,63,44,71,19,19,10,33,31,41,59,7,Private Sector,FD,SBI Equity SIP,1
+7,5,4,98,66,72,30,34,42,82,15,42,43,97,Industrialist,FD,Credit Card Loan,1
+4,1,52,66,45,99,3,76,65,34,32,78,3,44,Industrialist,RD,Education Loan,1
+6,1,84,29,8,41,8,6,87,70,7,90,6,87,Private Sector,RD,Pension Loan,1
+8,2,51,94,26,24,23,65,5,9,73,73,22,25,Stock Broker,Credit,SBI Debt SIP,1
+4,7,70,52,17,49,13,7,16,91,10,96,74,61,Central Govt,Loan,SBI Equity SIP,1
+4,3,98,44,0,28,2,87,43,58,44,14,13,69,Industrialist,SIP,Home Loan,1
+4,4,63,37,11,16,26,26,98,16,0,62,2,10,Student,FD,SBI Special FD (400 Days),1
+2,6,87,8,7,26,6,55,79,77,16,44,5,88,Import/Export,RD,Two-Wheeler Loan,1
+6,3,26,44,39,25,35,69,25,66,44,5,31,27,State Govt,RD,Tractor Loan,1
+7,5,0,16,39,8,61,63,36,56,30,12,34,36,Import/Export,Loan,Overdraft Facility,1
+1,7,56,99,6,41,38,41,87,46,0,43,13,40,Medical Prof,RD,SBI Tax Savings FD,1
+4,2,89,6,0,11,11,37,78,53,10,66,12,52,Legal Prof,FD,SBI Debt SIP,1
+6,8,44,58,50,53,6,17,36,0,54,20,10,27,Defence,SIP,SBI Debt SIP,1
+3,8,94,69,3,91,3,2,41,94,33,79,26,80,State Govt,SIP,SBI Magnum SIP,1
+3,8,31,1,12,67,57,90,42,59,19,88,39,3,Housewife,FD,SBI Multi Option Deposit (MODS),1
+8,1,32,31,29,37,39,16,4,57,11,39,85,95,State Govt,SIP,SBI Tax Savings FD,1
+8,7,28,72,51,20,21,59,91,97,0,74,9,19,Journalist,Loan,SBI Equity SIP,1
+2,7,79,70,0,88,21,93,81,97,7,43,12,47,Trade Sector,Loan,SBI Special FD (200 Days),1
+3,7,22,91,52,12,26,33,44,37,20,69,36,67,PSU,Credit,SBI Hybrid SIP,1
+6,8,20,71,27,18,53,74,2,49,22,73,76,57,Industrialist,RD,SBI Flexi RD Scheme,1
+4,4,91,84,7,81,2,8,82,3,15,40,3,24,Housewife,FD,Pension Loan,1
+1,2,12,33,8,6,80,14,79,37,3,74,18,95,Jeweller,SIP,SBI Hybrid SIP,1
+6,4,99,44,0,58,1,20,82,27,6,2,12,13,Engineer/Architect,FD,SBI Overdraft,1
+2,5,44,52,23,44,33,31,45,17,11,12,44,3,Import/Export,FD,SBI Hybrid SIP,1
+5,2,13,94,27,70,60,66,71,28,15,99,14,60,Service Sector,SIP,SBI Magnum SIP,1
+4,1,16,77,48,45,36,92,62,12,19,99,19,44,Agriculture,Credit,SBI Multi Option Deposit (MODS),1
+7,6,42,85,3,71,55,27,83,44,10,40,7,93,Retired,FD,SBI Term Deposit,1
+1,7,35,46,32,84,33,32,24,66,18,13,58,78,Stock Broker,Loan,Credit Card Loan,1
+6,1,34,50,31,79,35,58,54,71,11,13,35,17,Legal Prof,Loan,Home Loan,1
+8,4,97,5,0,69,3,85,52,7,6,14,42,25,Engineer/Architect,RD,SBI Small Cap SIP,1
+2,3,21,18,66,99,13,61,64,97,32,56,4,94,Medical Prof,RD,SBI Bluechip Fund SIP,1
+4,5,15,47,51,90,34,38,83,12,8,3,9,95,CA/Finance,Credit,Agriculture Loan,1
+2,7,80,91,13,52,7,24,91,40,5,2,4,76,Jeweller,Credit,Pension Loan,1
+2,5,33,35,54,53,13,58,51,51,20,18,29,11,Jeweller,SIP,Overdraft Facility,1
+8,5,78,66,15,30,7,75,70,7,14,88,16,60,PSU,SIP,SBI WeCare FD (Senior Citizens),1
+3,4,84,13,9,3,7,16,54,68,1,23,45,48,Agriculture,Loan,Two-Wheeler Loan,1
+3,3,97,52,2,47,1,99,28,90,61,85,11,65,Jeweller,SIP,SBI Overdraft,1
+8,6,56,31,11,7,33,86,2,29,80,14,18,73,Trade Sector,RD,SBI Small Cap SIP,1
+6,7,63,35,25,89,12,77,77,30,2,77,21,39,Medical Prof,FD,Pension Loan,1
+6,8,41,35,17,75,42,49,99,60,0,39,1,2,Jeweller,FD,Business Loan,1
+7,1,76,14,2,20,22,61,92,82,2,27,6,3,Stock Broker,Credit,Tractor Loan,1
+7,3,38,57,31,83,31,1,66,24,29,10,5,0,CA/Finance,Loan,SBI Annuity Deposit,1
+2,1,18,75,52,80,30,5,33,12,31,85,36,74,PSU,Credit,Tractor Loan,1
+5,1,46,64,45,22,9,94,28,50,60,62,12,98,Journalist,SIP,SBI Tax Savings FD,1
+5,6,70,43,0,6,30,90,99,1,0,16,1,64,Medical Prof,FD,SBI Term Deposit,1
+6,6,96,74,1,70,3,27,34,24,62,60,4,30,Student,RD,Personal Loan,1
+3,2,58,63,20,18,22,84,55,77,36,73,9,52,Central Govt,Credit,SBI Recurring Deposit,1
+8,6,76,1,13,5,11,28,18,40,74,50,8,4,Service Sector,Loan,SBI EMI Card,1
+6,1,61,81,35,51,4,48,26,61,49,99,25,59,Trade Sector,RD,SBI Debt SIP,1
+8,6,4,94,8,19,88,80,33,83,35,91,32,84,Agriculture,SIP,SBI Equity SIP,1
+3,7,29,48,68,41,3,23,69,43,2,0,29,53,PSU,SIP,Education Loan,1
+7,1,43,50,17,40,40,85,86,63,12,87,2,47,Industrialist,Credit,Personal Loan,1
+2,6,16,5,4,52,80,80,60,94,24,16,16,58,PSU,SIP,SBI Equity SIP,1
+7,6,36,76,47,26,17,87,67,26,13,71,20,62,CA/Finance,SIP,SBI Tax Savings FD,1
+2,7,56,47,40,26,4,71,74,32,9,75,17,34,Student,FD,SBI Annuity Deposit,1
+4,2,90,84,7,93,3,83,16,7,19,17,65,17,Pawn Shop,FD,SBI Overdraft,1
+2,4,71,13,18,25,11,46,9,29,74,55,17,41,Contractor,SIP,Business Loan,1
+3,8,85,1,2,11,13,20,36,68,57,70,7,63,Stock Broker,SIP,SBI EMI Card,1
+3,6,99,92,0,72,1,89,61,11,21,0,18,71,Migrant Labour,Loan,SBI Flexi RD Scheme,1
+4,3,13,25,13,48,74,16,8,67,72,59,20,2,Defence,Credit,SBI Credit Card,1
+1,5,53,45,0,47,47,6,0,9,44,14,56,39,Pawn Shop,RD,SBI Bluechip Fund SIP,1
+6,5,12,60,26,12,62,11,80,28,17,84,3,83,Agriculture,SIP,SBI Bluechip Fund SIP,1
+7,8,74,14,6,67,20,64,32,31,41,10,27,93,Political/Social Worker,Credit,SBI Special FD (400 Days),1
+3,4,70,61,27,95,3,65,83,85,11,47,6,39,Central Govt,FD,SBI Recurring Deposit,1
+4,8,16,96,82,69,2,59,54,50,33,99,13,76,Jeweller,Loan,Car Loan,1
+2,8,17,6,37,86,46,86,42,45,31,60,27,17,Retired,FD,Agriculture Loan,1
+8,6,4,21,53,73,43,89,85,78,9,37,6,48,Retired,Loan,SBI Term Deposit,1
+4,7,34,45,59,82,7,81,61,78,22,60,17,64,Central Govt,Loan,SBI Focused Equity SIP,1
+3,1,62,44,3,38,35,64,78,21,9,10,13,36,Legal Prof,RD,SBI Focused Equity SIP,1
+3,3,6,89,7,90,87,8,50,45,22,37,28,12,Import/Export,SIP,SBI Magnum SIP,1
+3,2,49,36,2,55,49,79,40,15,28,43,32,49,State Govt,RD,SBI Multi Option Deposit (MODS),1
