@@ -2,20 +2,25 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Load the datasets
-mumbai_file = "data/branches/Mumbai_Main_SBIN0070001.xlsx"
-bilaspur_file = "data/branches/Bilaspur_SBIN0000336.xlsx"
+# Load the dataset
+file_path = "data/account_data.xlsx"
+df = pd.read_excel(file_path)
 
-df_mumbai = pd.read_excel(mumbai_file)
-df_bilaspur = pd.read_excel(bilaspur_file)
+# Define IFSC codes for Mumbai and Bilaspur
+ifsc_mumbai = "SBIN0070001"
+ifsc_bilaspur = "SBIN0000336"
+
+# Filter data for Mumbai and Bilaspur
+df_mumbai = df[df["IFSC_CODE"] == ifsc_mumbai]
+df_bilaspur = df[df["IFSC_CODE"] == ifsc_bilaspur]
 
 # Function to calculate average spending based on specified balance and RS value ranges
 def average_spending_in_range(df):
-    filtered_df = df[(df["Normalized Balance (0-100)"] >= 12.5) & 
-                     (df["Normalized Balance (0-100)"] <= 25) & 
-                     (df["RS Value (Credit/Debit Ratio)"] >= 12.5) & 
-                     (df["RS Value (Credit/Debit Ratio)"] <= 87.5)]
-    return filtered_df["Average Daily Spending (₹)"].mean()
+    filtered_df = df[(df["BALANCE_LEVEL"] >= 12.5) & 
+                     (df["BALANCE_LEVEL"] <= 25) & 
+                     (df["RS_VALUE"] >= 12.5) & 
+                     (df["RS_VALUE"] <= 87.5)]
+    return filtered_df["AVG_DAILY_EXP"].mean()
 
 # Calculate average spending for Mumbai and Bilaspur
 avg_spending_mumbai = average_spending_in_range(df_mumbai)
@@ -43,8 +48,8 @@ def highlight_range(ax):
 # Function to draw percentile lines at specified percentiles
 def draw_percentile_lines(ax, df):
     specified_percentiles = [12.5, 25, 37.5, 50, 62.5, 75, 87.5]
-    balance_percentiles = np.percentile(df["Normalized Balance (0-100)"], specified_percentiles)
-    rs_percentiles = np.percentile(df["RS Value (Credit/Debit Ratio)"], specified_percentiles)
+    balance_percentiles = np.percentile(df["BALANCE_LEVEL"], specified_percentiles)
+    rs_percentiles = np.percentile(df["RS_VALUE"], specified_percentiles)
     
     for p in balance_percentiles:
         ax.axhline(y=p, color='red', linestyle='--', alpha=0.5)
@@ -52,7 +57,7 @@ def draw_percentile_lines(ax, df):
         ax.axvline(x=p, color='blue', linestyle='--', alpha=0.5)
 
 # Plot Mumbai data
-axes[0].scatter(df_mumbai["RS Value (Credit/Debit Ratio)"], df_mumbai["Normalized Balance (0-100)"], alpha=0.5, s=10)
+axes[0].scatter(df_mumbai["RS_VALUE"], df_mumbai["BALANCE_LEVEL"], alpha=0.5, s=10)
 axes[0].set_title("Mumbai Main Branch (SBIN0070001)")
 axes[0].set_xlabel("RS Value (0-100)")
 axes[0].set_ylabel("Balance Value (0-100)")
@@ -63,7 +68,7 @@ highlight_range(axes[0])  # Highlight the specified region
 draw_percentile_lines(axes[0], df_mumbai)  # Draw percentile lines based on Mumbai data
 
 # Plot Bilaspur data
-axes[1].scatter(df_bilaspur["RS Value (Credit/Debit Ratio)"], df_bilaspur["Normalized Balance (0-100)"], alpha=0.5, s=10)
+axes[1].scatter(df_bilaspur["RS_VALUE"], df_bilaspur["BALANCE_LEVEL"], alpha=0.5, s=10)
 axes[1].set_title("Bilaspur Branch (SBIN0000336)")
 axes[1].set_xlabel("RS Value (0-100)")
 axes[1].set_xticks(tick_values)

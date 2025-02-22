@@ -1,9 +1,10 @@
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.preprocessing import LabelEncoder
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.metrics import classification_report, accuracy_score
+from imblearn.over_sampling import SMOTE
 from rapidfuzz import process
 
 # Load dataset
@@ -42,35 +43,46 @@ X = df.drop(columns=['financial_product', 'scheme_name', 'origin_type'], errors=
 y_product = df['financial_product']
 y_scheme = df['scheme_name']
 
+# Adjust trend values with ±3 for a more realistic approach
+for col in X.columns:
+    if 'trend_%' in col or 'trend_rs' in col:
+        X[col] = X[col].apply(lambda x: np.random.randint(max(0, x-3), x+4))
+
+# Normalize the features
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# Handle class imbalance using SMOTE
+smote = SMOTE(random_state=42)
+X_resampled, y_resampled_product = smote.fit_resample(X_scaled, y_product)
+X_resampled_scheme, y_resampled_scheme = smote.fit_resample(X_scaled, y_scheme)
+
 # Save feature names for consistency
 feature_names = X.columns.tolist()
 
 # Split data into train and test sets
-X_train, X_test, y_train_product, y_test_product = train_test_split(X, y_product, test_size=0.2, random_state=42)
-X_train_scheme, X_test_scheme, y_train_scheme, y_test_scheme = train_test_split(X, y_scheme, test_size=0.2, random_state=42)
+X_train, X_test, y_train_product, y_test_product = train_test_split(X_resampled, y_resampled_product, test_size=0.2, random_state=42)
+X_train_scheme, X_test_scheme, y_train_scheme, y_test_scheme = train_test_split(X_resampled_scheme, y_resampled_scheme, test_size=0.2, random_state=42)
 
-# Train Decision Tree Classifier
-clf_product = DecisionTreeClassifier(max_depth=5, random_state=42)
+# Train Random Forest Classifier
+clf_product = RandomForestClassifier(n_estimators=200, max_depth=10, class_weight='balanced', random_state=42)
 clf_product.fit(X_train, y_train_product)
 
-clf_scheme = DecisionTreeClassifier(max_depth=5, random_state=42)
+clf_scheme = RandomForestClassifier(n_estimators=200, max_depth=10, class_weight='balanced', random_state=42)
 clf_scheme.fit(X_train_scheme, y_train_scheme)
 
 # Predictions
 y_pred_product = clf_product.predict(X_test)
-y_pred_proba_product = clf_product.predict_proba(X_test)
-
 y_pred_scheme = clf_scheme.predict(X_test_scheme)
-y_pred_proba_scheme = clf_scheme.predict_proba(X_test_scheme)
 
 # Model evaluation
-print("Product Accuracy:", accuracy_score(y_test_product, y_pred_product))
+print("Improved Product Accuracy:", accuracy_score(y_test_product, y_pred_product))
 print(classification_report(y_test_product, y_pred_product))
 
-print("Scheme Accuracy:", accuracy_score(y_test_scheme, y_pred_scheme))
+print("Improved Scheme Accuracy:", accuracy_score(y_test_scheme, y_pred_scheme))
 print(classification_report(y_test_scheme, y_pred_scheme))
 
-# Function to find closest matching profession
+# Function to find the closest matching profession
 def get_closest_profession(input_profession, known_professions):
     best_match, score, _ = process.extractOne(input_profession, known_professions)
     if score > 70:  # Accept only if confidence is high
@@ -97,14 +109,22 @@ def predict_financial_product_and_scheme(data):
 
     input_data = input_data[feature_names]  # Ensure correct feature order
 
+    # Adjust trend values with ±5 for realism
+    for col in input_data.columns:
+        if 'trend_%' in col or 'trend_rs' in col:
+            input_data[col] = np.random.randint(max(0, input_data[col].values[0]-5), input_data[col].values[0]+6)
+
     # Ensure profession is encoded before prediction
     if 'profession' in input_data.columns:
         input_profession = data['profession']
         matched_profession = get_closest_profession(input_profession, known_professions)
         input_data['profession'] = le_profession.transform([matched_profession])[0]
 
-    probabilities_product = clf_product.predict_proba(input_data)
-    probabilities_scheme = clf_scheme.predict_proba(input_data)
+    # Normalize input data
+    input_scaled = scaler.transform(input_data)
+
+    probabilities_product = clf_product.predict_proba(input_scaled)
+    probabilities_scheme = clf_scheme.predict_proba(input_scaled)
 
     product_classes = le_product.classes_
     scheme_classes = le_scheme.classes_
@@ -123,14 +143,10 @@ sample_input = {
     "slow_uptrend_rs": 60,
     "slow_downtrend_%": 20,
     "slow_downtrend_rs": 30,
-    "slow_sideways_%": 40,
-    "slow_sideways_rs": 50,
     "fast_uptrend_%": 30,
     "fast_uptrend_rs": 55,
     "fast_downtrend_%": 20,
     "fast_downtrend_rs": 35,
-    "fast_sideways_%": 50,
-    "fast_sideways_rs": 50,
     "profession": "Service"
 }
 

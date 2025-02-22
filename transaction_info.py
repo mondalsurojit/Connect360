@@ -4,7 +4,7 @@ from matplotlib.widgets import Button
 import numpy as np
 
 # Load the Excel file
-file_path = "data/users/Bank_Statement.xlsx"
+file_path = "data/sample_user1/Bank_Statement.xlsx"
 df = pd.read_excel(file_path, sheet_name="Sheet1")
 
 # Convert Txn Date to datetime format
@@ -156,7 +156,7 @@ plt.show()
 
 # Rename 'Txn Date' & save the updated dataframe to a new Excel file
 merged_df.rename(columns={"Txn Date": "Date"}, inplace=True)
-output_file = "data/users/Daily_Bank_Statement.xlsx"
+output_file = "data/sample_user1/Daily_Bank_Statement.xlsx"
 columns_to_store = ["Date", "Description", "Debit", "Credit", "Balance", "RS Normalized", "Balance MA 720D"]
 merged_df[columns_to_store].to_excel(output_file, index=False)
 
