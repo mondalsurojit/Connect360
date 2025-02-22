@@ -81,23 +81,13 @@ avg_rs_down_trend = down_trend_df['RS Normalized'].mean()
 avg_rs_sideways_trend = sideways_trend_df['RS Normalized'].mean()
 
 print(f"Average RS for the last year: {average_rs_year:.2f}")
+print(f"Average Balance for the last year: {average_balance:.2f}")
 print(f"""
 The all 3 trends for the past year, in the following format (% of time, Average RS):
   Up-Trend (>70): ({up_trend_percentage:.2f}%, {avg_rs_up_trend:.2f})
   Down-Trend (<30): ({down_trend_percentage:.2f}%, {avg_rs_down_trend:.2f})
   Sideways-Trend (30-70): ({sideways_trend_percentage:.2f}%, {avg_rs_sideways_trend:.2f})
 """)
-
-# Group dates where RS is outside 30-70 by month for the last year
-out_of_range_dates = last_year_df[(last_year_df['RS Normalized'] > 70) | (last_year_df['RS Normalized'] < 30)]
-out_of_range_summary = {}
-for month, group in out_of_range_dates.groupby(out_of_range_dates['Txn Date'].dt.month):
-    out_of_range_summary[month] = {
-        date: rs for date, rs in zip(group['Txn Date'].dt.strftime('%Y-%m-%d'), group['RS Normalized'])
-    }
-
-print("Out of range RS summary (last year):")
-print(out_of_range_summary)
 
 # Plotting the data
 fig, ax = plt.subplots(figsize=(12, 6))
@@ -160,4 +150,4 @@ output_file = "data/sample_user1/Daily_Bank_Statement.xlsx"
 columns_to_store = ["Date", "Description", "Debit", "Credit", "Balance", "RS Normalized", "Balance MA 720D"]
 merged_df[columns_to_store].to_excel(output_file, index=False)
 
-print(f"Daily bank statement saved as {output_file}")
+print(f"✅ Daily bank statement saved as {output_file}")
