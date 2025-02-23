@@ -9,8 +9,8 @@ from rapidfuzz import process
 
 # Load required datasets
 df_customer = pd.read_excel("data/customer.xlsx")
-df_discrete = pd.read_excel("data/persona/discrete_persona.xlsx")
-df_continuous = pd.read_excel("data/persona/continuous_persona.xlsx")
+df_discrete = pd.read_excel("data/discrete_persona.xlsx")
+df_persona = pd.read_excel("data/relations/customer_discretepersona.xlsx")
 df = pd.read_csv("data/previous_adoption.csv")
 
 # Initialize LabelEncoders
@@ -66,12 +66,12 @@ def get_closest_profession(input_profession):
 
 # Function to predict using CIF_NO
 def predict_from_cif(cif_no):
-    # Get discrete persona ID
-    customer_info = df_customer[df_customer['CIF_NO'] == cif_no]
-    if customer_info.empty:
-        raise ValueError("CIF_NO not found in customer data")
+    # Get discrete persona ID from df_persona instead of df_customer
+    persona_info = df_persona[df_persona['CIF_NO'] == cif_no]
+    if persona_info.empty:
+        raise ValueError("CIF_NO not found in persona data")
     
-    discrete_persona_id = customer_info.iloc[0]['DISCRETE_PERSONA_ID']
+    discrete_persona_id = persona_info.iloc[0]['DISCRETE_PERSONA_ID']
     
     # Get discrete persona details
     discrete_info = df_discrete[df_discrete['DISCRETE_PERSONA_ID'] == discrete_persona_id]
@@ -79,7 +79,7 @@ def predict_from_cif(cif_no):
         raise ValueError("Discrete persona not found")
     
     # Get continuous persona details
-    continuous_info = df_continuous[df_continuous['CIF_NO'] == cif_no]
+    continuous_info = persona_info  # Now, df_persona already holds relevant information
     if continuous_info.empty:
         raise ValueError("Continuous persona not found")
     
@@ -87,6 +87,7 @@ def predict_from_cif(cif_no):
     input_data = discrete_info[['BALANCE_LEVEL', 'SOCIAL_CLASS', 'OCCUPATION']].copy()
     continuous_cols = ['SLOW_UPTREND_%', 'SLOW_UPTREND_RS', 'SLOW_DOWNTREND_%', 'SLOW_DOWNTREND_RS',
                        'FAST_UPTREND_%', 'FAST_UPTREND_RS', 'FAST_DOWNTREND_%', 'FAST_DOWNTREND_RS']
+    
     input_data[continuous_cols] = continuous_info[continuous_cols].values
 
     # Standardize column names to uppercase
@@ -108,7 +109,6 @@ def predict_from_cif(cif_no):
     else:
         raise ValueError("Unknown profession")
 
-
     # Normalize input
     input_scaled = scaler.transform(input_data[X.columns])
 
@@ -121,7 +121,6 @@ def predict_from_cif(cif_no):
     result_scheme = {le_scheme.classes_[i]: round(float(prob), 4) for i, prob in enumerate(probabilities_scheme[0])}
 
     return result_product, result_scheme
-
 
 def evaluate_model(model, X_test, y_test, label_encoder, model_name):
     y_pred = model.predict(X_test)

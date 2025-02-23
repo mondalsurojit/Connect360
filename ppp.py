@@ -89,8 +89,8 @@ def print_compact(df, avg_spending, branch_name):
     specified_percentiles = [12.5, 25, 37.5, 50, 62.5, 75, 87.5]
     balance_percentiles = np.percentile(df["BALANCE_LEVEL"], specified_percentiles)
     formatted_output = {
-        "PPP": round(float(avg_spending), 2),
-        "BLP": [round(float(value), 2) for value in balance_percentiles]
+        "ppp": round(float(avg_spending), 2),
+        "blp": [round(float(value), 2) for value in balance_percentiles]
     }
     print(f"\n{branch_name}: {formatted_output}")
 
